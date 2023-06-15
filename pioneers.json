@@ -9,26 +9,32 @@
       "name" : "Karli Kloss",
       "years" : "1992 - ",
       "secretIdentity" : "Model",
+      "birthday": "03-09-1992",
       "powers" : [
         "Karli's 1st fun fact",
         "Karli's 2nd fun fact",
         "Karli's 3rd fun fact"
       ]
+      
     },
     {
       "name" : "Ada Lovelace",
       "years" : "1815 - 1852",
       "secretIdentity" : "Countess",
+      "birthday": "10-12-1815",
       "powers" : [
         "Million tonne punch",
         "Damage resistance",
         "Superhuman reflexes"
       ]
+      
+
     },
     {
       "name" : "Hedy Lamarr",
       "years" : "1914 - 2000",
       "secretIdentity" : "Actress",
+      "birthday": "09-11-1914",
       "powers" : [
         "Immortality",
         "Heat Immunity",
@@ -36,6 +42,23 @@
         "Teleportation",
         "Interdimensional travel"
       ]
+      
+
+    }
+    {
+      "name" : "Tester Figueroa",
+      "years" : "1914 - ",
+      "secretIdentity" : "Student",
+      "birthday": "15-07-1914",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+      
+
     }
   ]
 }
