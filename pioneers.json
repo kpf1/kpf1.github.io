@@ -9,6 +9,7 @@
       "name" : "Karli Kloss",
       "years" : "1992 - ",
       "secretIdentity" : "Model",
+      "publicGenderIdentity" : "female",
       "birthday": "1992-03-09",
       "powers" : [
         "Karli's 1st fun fact",
@@ -21,6 +22,7 @@
       "name" : "Ada Lovelace",
       "years" : "1815 - 1852",
       "secretIdentity" : "Countess",
+      "publicGenderIdentity" : "female",
       "birthday": "1815-10-12",
       "powers" : [
         "Million tonne punch",
@@ -34,6 +36,7 @@
       "name" : "Hedy Lamarr",
       "years" : "1914 - 2000",
       "secretIdentity" : "Actress",
+      "publicGenderIdentity" : "female",
       "birthday": "1914-09-11",
       "powers" : [
         "Immortality",
