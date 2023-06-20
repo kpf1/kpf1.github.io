@@ -15,6 +15,11 @@
         "Karli's 1st fun fact",
         "Karli's 2nd fun fact",
         "Karli's 3rd fun fact"
+      ],
+      "tags" : [
+        "karli tag 1",
+        "karli tag 2",
+        "karli tag 3"
       ]
       
     },
@@ -28,6 +33,11 @@
         "Million tonne punch",
         "Damage resistance",
         "Superhuman reflexes"
+      ],
+      "tags" : [
+        "ada tag 1",
+        "ada tag 2",
+        "ada tag 3"
       ]
       
 
@@ -44,6 +54,11 @@
         "Inferno",
         "Teleportation",
         "Interdimensional travel"
+      ],
+      "tags" : [
+        "bluetooth",
+        "GPS",
+        "torpedos"
       ]
       
 
