@@ -30,9 +30,9 @@
       "publicGenderIdentity" : "female",
       "birthday": "1815-10-12",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Ada Fact 1",
+        "Ada Fact 2",
+        "Ada Fact 3"
       ],
       "tags" : [
         "ada tag 1",
@@ -49,11 +49,11 @@
       "publicGenderIdentity" : "female",
       "birthday": "1914-09-11",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Hedy Fact 1",
+        "Hedy Fact 2",
+        "Hedy Fact 3",
+        "Hedy Fact 4",
+        "Hedy Fact 5"
       ],
       "tags" : [
         "bluetooth",
@@ -69,11 +69,8 @@
       "secretIdentity" : "Student",
       "birthday": "1914-15-07",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "TESTER Fact 1",
+        "TESTER Fact 2"
       ]
       
 
