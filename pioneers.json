@@ -72,11 +72,11 @@
         "TESTER Fact 1",
         "TESTER Fact 2"
       ],
-          "tags" : [
-        "torpedos"
+      "tags" : [
+        "torpedos",
+        "testerFact2"
       ]
       
-
     }      
     }
   ]
