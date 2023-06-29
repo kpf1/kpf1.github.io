@@ -1,39 +1,4 @@
-{
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
-  "members" : [
-    {
-      "name" : "Karli Kloss",
-      "years" : "1992 - ",
-      "secretIdentity" : "Model",
-      "publicGenderIdentity" : "female",
-      "birthday": "1992-03-09",
-      "powers" : [
-        "Karli's 1st fun fact",
-        "Karli's 2nd fun fact",
-        "Karli's 3rd fun fact"
-      ],
-      "tags" : [
-        "karli tag 1",
-        "karli tag 2",
-        "karli tag 3"
-      ]
-      
-    },
-    {
-      "name" : "Ada Lovelace",
-      "years" : "1815 - 1852",
-      "secretIdentity" : "Countess",
-      "publicGenderIdentity" : "female",
-      "birthday": "1815-10-12",
-      "powers" : [
-        "Ada Fact 1",
-        "Ada Fact 2",
-        "Ada Fact 3"
-      ],
+@@ -37,61 +37,61 @@
       "tags" : [
         "ada tag 1",
         "ada tag 2",
@@ -72,12 +37,26 @@
         "TESTER Fact 1",
         "TESTER Fact 2"
       ],
-      "tags" : [
-        "torpedos",
-        "testerFact2"
+          "tags" : [
+        "testerTag1",
       ]
       
-    }      
-    
+
+    },
+      {
+      "name" : "Tester TORPEDOS",
+      "years" : "1914 - ",
+      "secretIdentity" : "Student",
+      "birthday": "1914-15-07",
+      "powers" : [
+        "TESTER Fact 1",
+        "TESTER Fact 2"
+      ],
+            "tags" : [
+        "torpedos"
+      ]
+      }
+      
+    }
   ]
 }
