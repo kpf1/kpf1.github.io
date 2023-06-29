@@ -71,9 +71,26 @@
       "powers" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
+      ],
+          "tags" : [
+        "testerTag1",
       ]
       
 
+    }
+      {
+      "name" : "Tester TORPEDOS",
+      "years" : "1914 - ",
+      "secretIdentity" : "Student",
+      "birthday": "1914-15-07",
+      "powers" : [
+        "TESTER Fact 1",
+        "TESTER Fact 2"
+      ],
+            "tags" : [
+        "torpedos"
+      ]
+      
     }
   ]
 }
