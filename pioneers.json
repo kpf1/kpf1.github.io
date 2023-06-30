@@ -1,17 +1,13 @@
       {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
+  "grouping" : "Computer Science Pioneers",
   "members" : [
     {
       "name" : "Karli Kloss",
       "years" : "1992 - ",
-      "secretIdentity" : "Model",
+      "altCareer" : "Model",
       "publicGenderIdentity" : "female",
       "birthday": "1992-03-09",
-      "powers" : [
+      "facts" : [
         "Karli's 1st fun fact",
         "Karli's 2nd fun fact",
         "Karli's 3rd fun fact"
@@ -26,10 +22,10 @@
     {
       "name" : "Ada Lovelace",
       "years" : "1815 - 1852",
-      "secretIdentity" : "Countess",
+      "altCareer" : "Countess",
       "publicGenderIdentity" : "female",
       "birthday": "1815-10-12",
-      "powers" : [
+      "facts" : [
         "Ada Fact 1",
         "Ada Fact 2",
         "Ada Fact 3"
@@ -45,10 +41,10 @@
     {
       "name" : "Hedy Lamarr",
       "years" : "1914 - 2000",
-      "secretIdentity" : "Actress",
+      "altCareer" : "Actress",
       "publicGenderIdentity" : "female",
       "birthday": "1914-09-11",
-      "powers" : [
+      "facts" : [
         "Hedy Fact 1",
         "Hedy Fact 2",
         "Hedy Fact 3",
@@ -66,9 +62,9 @@
     {
       "name" : "Tester Figueroa",
       "years" : "1914 - ",
-      "secretIdentity" : "Student",
+      "altCareer" : "Student",
       "birthday": "1914-15-07",
-      "powers" : [
+      "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
       ],
@@ -81,9 +77,9 @@
       {
       "name" : "Tester TORPEDOS",
       "years" : "1914 - ",
-      "secretIdentity" : "Student",
+      "altCareer" : "Student",
       "birthday": "1914-15-07",
-      "powers" : [
+      "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
       ],
