@@ -20,7 +20,7 @@
         "karli tag 1",
         "karli tag 2",
         "karli tag 3"
-      ],
+      ]
       
     },
     {
@@ -72,7 +72,7 @@
         "TESTER Fact 1",
         "TESTER Fact 2"
       ],
-          "tags" : [
+      "tags" : [
         "testerTag1"
       ]
       
@@ -87,7 +87,7 @@
         "TESTER Fact 1",
         "TESTER Fact 2"
       ],
-            "tags" : [
+      "tags" : [
         "torpedos"
       ]
       
