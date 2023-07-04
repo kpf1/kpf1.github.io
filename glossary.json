@@ -1,0 +1,25 @@
+      {
+  "grouping" : "Glossary Terms",
+  "vocabulary" : [
+    {
+      "word" : "Abstraction",
+      "definition" : "define abstraction"  
+    },
+    {
+      "word" : "Algorithm",
+      "defintion" : "define algorithm"
+    },
+    {
+      "word" : "Binary",
+      "defintion" : "define binary"
+    },
+    {
+      "word" : "Bugs / Debugging",
+      "defintion" : "define bugs / debugging"
+    },
+     {
+      "word" : "Computing Language Environment",
+      "defintion" : "define computing language environment"
+    }
+  ]
+}
