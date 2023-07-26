@@ -120,6 +120,6 @@
       {
       "word" : "Variables",
       "definition" : "A name given to an abstract concept within a computer program to store information temporarily while the program is running. Variables also exist in mathematics, for example the variable ​pi​ is used to refer to the ratio of a circle’s circumference to its diameter, and variables such as​ x​ and​ y​ are used in equations to refer to numbers whose value is not yet known. Unlike in algebra, however, computing variables can change their value over time while a program is running, for example to store the score of a game or for a countdown timer."
-    },
+    }
   ]
 }
