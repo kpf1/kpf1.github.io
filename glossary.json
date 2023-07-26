@@ -3,27 +3,123 @@
   "vocabulary" : [
     {
       "word" : "Abstraction",
-      "definition" : "define abstraction"  
+      "definition" : "Abstraction is a key concept in computer science. Abstraction is about improving understanding by separating core concepts from inessential detail. When solving complex problems, abstraction enables us to focus on the more important aspects, thus helping to manage complexity. For example, a timetable is an abstraction of what a pupil will do in a typical week. It shows the pupils details of the subjects they will learn, who will teach them and when and where the lessons happen. Details such as learning objectives for individual lessons are not included, as this is not important for the intended purpose of the timetable."  
     },
     {
       "word" : "Algorithm",
-      "definition" : "define algorithm"
+      "definition" : "A precisely-defined sequence of instructions which is used to describe a process:​ a set of rules to describe how to get something done. Usually written for a human, rather than for a computer, to understand. ​Normally have a start point and an end point, usually have some input, and are expected to finish with a correct outcome. As they share many of these properties with computer programs, they are often easy to translate into a programming language. "
     },
     {
       "word" : "Binary",
-      "definition" : "define binary"
+      "definition" : "Most computers use binary numbers to represent information, through using “on” and “off” circuits to represent binary numbers.. We are more used to counting in the decimal number system, because we have 10 fingers to count on! Computers use binary to store and represent not just numbers, but also letters, images, videos, blocks in a visual programming language, and even the instructions that they can execute."
     },
     {
       "word" : "Bugs / Debugging",
-      "definition" : "define bugs / debugging"
+      "definition" : "A bug in a computer program happens when the programmer has made a mistake or has missed out a bit of code, causing the program to do the wrong thing. Debugging is an important skill for programmers who must be able to identify errors, find them in the program, correct them and then test that the bug is gone."
     },
-         {
+      {
       "word" : "Tajin",
       "definition" : "Chilli Powder"
     },
      {
       "word" : "Computing Language Environment",
-      "definition" : "define computing language environment"
-    }
+      "definition" : "Just like people, computers often understand a variety of different languages which are suitable for different purposes. Some computing languages are suitable for use by experts, or for certain sorts of scientific or data management tasks. Expert programmers are more likely to use textual languages which are written using English words and phrases with clearly specified rules (known as syntax and semantics). Beginner programmers will likely find a visual programming language easier to learn. In a visual language, the program is shown as a mixture of graphics and text, and the programmer can drag the graphics around to change the sequence of instructions. Often visual languages are blocks based, where programing constructs are represented in coloured blocks which look like jigsaw pieces. Scratch Jr is an example of an icon-based blocks language, as it uses blocks, icons and symbols so that programmers do not need to read or write."
+    },
+      {
+      "word" : "Computational Thinking",
+      "definition" : "Computational thinking is a powerful approach to solving problems. It is commonly used in computer science, but it is applicable to many everyday problems too. It allows us to take a complex problem, understand the problem better by using a computational framework, and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."
+    },
+      {
+      "word" : "Decomposition",
+      "definition" : "Decomposition is when you solve a big problem by breaking it up into smaller bits, solving those, and sticking the smaller solutions together into a final answer. More information on ​decomposition​"
+    },
+      {
+      "word" : "Deterministic",
+      "definition" : "An attribute of a process, which means that its outcome is predictable and repeatable. For example, the outcome of moving a counter a given number in Snakes and Ladders is deterministic, but the outcome of throwing the dice is not deterministic. All computing processes are in fact deterministic, unless their behaviour depends on non-deterministic input. Modern computing devices are so complex that this is not always obvious."
+    },
+      {
+      "word" : "Event Handling",
+      "definition" : "It is common for a program to have to respond to input from the user, or messages from sensors or other computers. This is called event handling. For example, in a language like Scratch, there are blocks to help the programmer write code to respond to events like key presses from the user or the sprite colliding with another sprite."
+    },
+      {
+      "word" : "Hidden Mechanism",
+      "definition" : "A mechanism normally hidden from the view of a user of a device, for example the engine of a car or the wash cycle of a washing machine. Users often need to know something about this mechanism in order to use the device effectively; for example a washing machine does not quite function as a “magic box” where clothes go in dirty and come out clean, although this is the abstraction the designers aim for. We can use the machine more effectively when we understand more about how it works, about temperature, spin speeds and timing of washing cycles. Similarly, the more that a user understands the hidden mechanisms in computing devices such as smartphones and the Internet, the more value they can get from them."
+    },
+      {
+      "word" : "Information",
+      "definition" : "Any kind of fact or knowledge about something tangible, like a physical item, or intangible, like an idea. In computing information is represented by a sequence of symbols which can be understood by a person or machine that will interpret the information. In computer memory all information is stored in the simplest form of information possible, binary."
+    },
+      {
+      "word" : "Input / Process / Storage / Output",
+      "definition" : "This is the sequence of activities computers generally perform. The computer takes in information as ​input​ (perhaps the user types on the keyboard or moves the mouse), processes​ that information by following a sequence of instructions from a computer program, ​stores​ the results of the program for later (on a hard disk) and then ​output​s the results to the user (such as changing the display on the screen or playing a sound through the speaker). "
+    },
+      {
+      "word" : "Interface",
+      "definition" : "We use “interface” in this document to describe the part of a piece of software which the user sees and interacts with. In any software package, there is a lot of code which happens behind the scenes which the user has no need to be aware of. The interface between the program and the user enables the user to enter input (perhaps using a mouse or keyboard) and see the output (usually on screen). The way in which a computer interacts with people is sometimes known as its Human-Computer Interface."
+    },
+      {
+      "word" : "Logic (AND / OR / NOT)",
+      "definition" : "Computers are built to process instructions containing boolean logic. Key words to learn here are AND, OR and NOT. Of course, we use these words in everyday language, but it is worth checking that your learners understand their precise meaning. These concepts are often used within selection statements in programs when the computer should take different action depending on the information it is processing. "
+    },
+      {
+      "word" : "Mental Models",
+      "definition" : "n the context of computing education, we use the term “mental model” to describe a learner’s understanding of how a computer system works. Novice programmers often have an incomplete and flawed model of how a program will execute which makes it harder for them to find bugs."
+    },
+      {
+      "word" : "Parallel",
+      "definition" : "The term “parallel” is used to describe two or more processes which occur at the same time. For example, in Scratch you can have more than one script running at a time such as a cat sprite chasing a dog sprite."
+    },
+      {
+      "word" : "Process",
+      "definition" : "A dynamic series of connected actions, many of them occurring one after the other in a sequential order, normally with apparent start and finish states (some processes may never finish however.) The behaviour of a process may depend on its context perhaps through input or observation of its environment. The behaviour of a process in a game might be affected by sensing the race car is driving over green grass, or a user clicking the mouse. The process of getting ready for play time might change if we see dark rain clouds outside."
+    },
+      {
+      "word" : "Repetition",
+      "definition" : "Computers excel at doing the same thing over and over again without making a mistake. Most programming languages make it easy for the programmer to instruct the computer to repeat tasks using loops. ​Fixed repetition​ is when the computer is instructed to carry out a sequence of steps a certain number of times, e.g. “do this ten times: move one step to the left”. ​Conditional repetition​ is when the program keeps repeating a sequence of steps until a condition becomes true e.g. “keep doing this: if you haven’t hit the side of the screen yet, move one step to the left”."
+    },
+      {
+      "word" : "Representation (pictorial,iconic,physical,etc)",
+      "definition" : "Representations matter a lot in computer science, because sometimes problems are easier to solve if they are represented in a different way. For example, when young children learn about sequences, it might be easiest for them to understand the concept by interacting a physical robot. As they get better at understanding symbolic representations (such as pictures, diagrams or text), they can then reason about sequences more fluently because they do not have to rely on their memory. They can read a representation of a program and predict what it will do, or write their own instructions in pictorial form. Computers process on 1s and 0s, but this is an awful representation of information for humans because it is very hard to remember what long sequences of binary mean. This is why, behind the scenes, computers translate programs written in a language we understand into binary. Visual programming languages have a clearer representation for novices, but for experts they may be too cumbersome."
+    },
+      {
+      "word" : "Searching",
+      "definition" : "Computers spend a lot of time searching for specific items in large collections of information (for example, finding a customer name in a list of 80,000 customers). Because of this, computer scientists have spent a lot of time working out mathematically efficient ways to search information quickly. Often this requires the information to be carefully sorted to make searching easily. Simple search algorithms can also be used in real life problems."
+    },
+      {
+      "word" : "Sequence",
+      "definition" : "A series of actions, where the actions occur one after another in the order they are listed in. "
+    },
+      {
+      "word" : "Selection",
+      "definition" : "Making a choice about what action to carry out next based on testing if a condition is true or false. We can select whether to do something or nothing, select between two possible actions or select one of many possible actions Selection statements are often expressed in the format IF a condition is true THEN do something ELSE do something different."
+    },
+      {
+      "word" : "State",
+      "definition" : "A process or a program moves through a series of states as it executes instructions. A state is a useful abstraction to help you think about the main stages of a program and how the program moves between the states without worrying about the detail. For example, an order in an online shopping web site could be in the state of: order requested, purchased, delivered, or order complete. Every process should have one or more start or end states."
+    },
+      {
+      "word" : "Sorting",
+      "definition" : "Information isn’t very useful if it is stored in a big jumble. Computer scientists like their information to be sorted to make it easier to find items later or to process it in other ways. Information which is clearly structured is easier to sort. You can sort the same collection of information in different ways depending on which attribute you use. For example, if you had a collection of information about pupils in your school, you could sort them according to age or height, or sort them by class and then surname."
+    },
+      {
+      "word" : "Sprite",
+      "definition" : "This is a term from animation, also used in some visual programming languages, to refer to a 2D picture which can move around the screen. In Scratch, sprites can have blocks attached to them which control their behaviour."
+    },
+      {
+      "word" : "Predictable and Non-predictable",
+      "definition" : "In this document, we use the term “predictable” to describe programs where it is possible to look at the input and the program code and work out what the output will be. By “non-predictable” we mean programs where it is not possible to say in advance what the output will be given the input and the program code because the program uses randomness. For example, if you have a program which uses the equivalent of a dice roll to choose between six options, you know in advance the range of ​possible outputs, but you don’t know exactly which one will happen in any given run of the program."
+    },
+      {
+      "word" : "Programming Constructs",
+      "definition" : "Most programing languages share a set of common useful features such as selection (IF... ELSE) and repetition (fixed loops using REPEAT or FOR, conditional loops using FOREVER or WHILE), as well as ways of storing structured information. These are referred to as programming constructs. The constructs might look different in different languages, but they tend to work in a similar enough way that a programmer who knows one language can adapt to another one.​ ​You might also see the terms “control structures” or “control flow elements” to refer to programming constructs which specify what the program should do next in a sequence."
+    },
+      {
+      "word" : "Unplugges Computing",
+      "definition" : "You don’t need a computer to learn about computing concepts! “Unplugged” computing is when you use computational thinking away from the computers, for example with physical games or pencil and paper."
+    },
+      {
+      "word" : "Variables",
+      "definition" : "A name given to an abstract concept within a computer program to store information temporarily while the program is running. Variables also exist in mathematics, for example the variable ​pi​ is used to refer to the ratio of a circle’s circumference to its diameter, and variables such as​ x​ and​ y​ are used in equations to refer to numbers whose value is not yet known. Unlike in algebra, however, computing variables can change their value over time while a program is running, for example to store the score of a game or for a countdown timer."
+    },
   ]
 }
