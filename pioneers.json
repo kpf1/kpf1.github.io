@@ -64,6 +64,7 @@
       "years" : "1914 - ",
       "altCareer" : "Student",
       "birthday": "1914-15-07",
+      "currTag": "Algorithm",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
@@ -79,6 +80,7 @@
       "years" : "1914 - ",
       "altCareer" : "Student",
       "birthday": "1914-15-07",
+      "birthday": "Binary",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
