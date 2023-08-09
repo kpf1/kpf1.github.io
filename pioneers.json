@@ -2,7 +2,7 @@
   "grouping" : "Computer Science Pioneers",
   "members" : [
     {
-      "name" : "Karli Kloss",
+      "name" : "Karlie Kloss",
       "years" : "1992 - ",
       "altCareer" : "Model",
       "publicGenderIdentity" : "Female",
@@ -13,15 +13,16 @@
       "birthCountry":"USA",
       "achievement": "Founder of KodewithKlossy",
       "source": "https://hips.hearstapps.com/hmg-prod/images/karlie-kloss-1549565171.jpg?resize=1200:*",
+      "citation": "https://www.kodewithklossy.com/about",
+      "ACM Classification": "Computer Science",
       "facts" : [
-        "Karli's 1st fun fact",
-        "Karli's 2nd fun fact",
-        "Karli's 3rd fun fact"
+      "Following her own curiosity, she took a coding class at the Flatiron School, which ignited a passion to see more people with the opportunity to make change using tech. She awarded 21 scholarships are awarded to young people in NYC to learn how to code.",
+      "In 2016, she launched Kode With Klossy summer coding camps, awarding 80+ scholarships across 3 camps in LA, NYC and St. Louis",
+      "She pivoted curricula, training and programs virtually in the midst of a global pandemic; creating a sustainable, accessible alternative for scholars"
       ],
       "tags" : [
-        "karli tag 1",
-        "karli tag 2",
-        "karli tag 3"
+        "Entrepreneur",
+        "Programming"
       ]
       
     },
@@ -31,20 +32,22 @@
       "altCareer" : "Countess",
       "publicGenderIdentity" : "Female",
       "birthday": "1815-10-12",
-      "currTag": "",
+      "currTag": "Algorithm",
       "knownFor": "Computer",
        "century":"19",
       "birthCountry":"England",
       "achievement": "First Computer Programmer",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850_-_cropped.png",
+      "citation": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+      "ACM Classification": "Mathematics and Computer Science",
       "facts" : [
-        "Ada Fact 1",
-        "Ada Fact 2",
-        "Ada Fact 3"
+      "An English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. ",
+      "She is often regarded as the first to recognize the full potential of a computing machine and the first computer programmer.",
+      "She was the first to recognize that the machine had applications beyond pure calculation, and created the first algorithm."
       ],
       "tags" : [
-        "ada tag 1",
-        "ada tag 2",
-        "ada tag 3"
+        "Computer",
+        "Programming"
       ]
       
 
@@ -59,18 +62,18 @@
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"Austria-Hungary",
-      "achievement": "Inventor of Bluetooth",
+      "achievement": "Co-inventor of Bluetooth",
+      "source": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTXgWCJS1CTWVT0kRtciSsId3w9F4Jxb5ZkxomAuIpBVzPc25NQYQpepn30cuqWxwkbrn1kjKVetp6KyD8",
+      "citation": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+      "ACM Classification": "Computer Science",
       "facts" : [
-        "Hedy Fact 1",
-        "Hedy Fact 2",
-        "Hedy Fact 3",
-        "Hedy Fact 4",
-        "Hedy Fact 5"
+        "Co-inventor of frequency-hopping signal technology which prevents torpedo's radio guidance system from being tracked or jammed during WWII.",
+        "The frequency-hopping invention has been incorporated into modern-day bluetooth and GPS technologies."
       ],
       "tags" : [
-        "bluetooth",
+        "Bluetooth",
         "GPS",
-        "torpedos"
+        "Torpedos"
       ]
       
 
@@ -80,12 +83,15 @@
       "years" : "1997 - ",
       "altCareer" : "Student",
       "publicGenderIdentity" : "Female",
-      "birthday": "1997-15-07",
+      "birthday": "1997-05-08",
       "currTag": "Algorithm",
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"",
       "achievement": "1 Achievement goes here",
+      "source": "",
+      "citation": "",
+      "ACM Classification": "",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
@@ -101,12 +107,15 @@
       "years" : "1914 - ",
       "altCareer" : "Student",
       "publicGenderIdentity" : "Female",
-      "birthday": "1914-15-07",
+      "birthday": "1914-07-15",
       "currTag": "Binary",
       "knownFor": "Netflix",
       "century":"",
       "birthCountry":"",
       "achievement": "one achievement goes here",
+      "source": "",
+      "citation": "",
+      "ACM Classification": "",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
@@ -121,41 +130,238 @@
       "years" : "1914 - ",
       "altCareer" : "Advocate for Education Reform",
       "publicGenderIdentity" : "Male",
-      "birthday": "1960-08-10",
-      "currTag": "Binary",
+      "birthday": "1960-10-08",
+      "currTag": "Bugs / Debugging",
        "knownFor": "Netflix",
       "century":"20,21",
       "birthCountry":"USA",
        "achievement": "Co-founder of Netflix",
        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Re_publica_2015_-_Tag_1_%2817195424118%29.jpg/1024px-Re_publica_2015_-_Tag_1_%2817195424118%29.jpg",
+       "citation": "https://en.wikipedia.org/wiki/Reed_Hastings",
+      "ACM Classification": "",
       "facts" : [
-        "TESTER Fact 1",
-        "TESTER Fact 2"
+        "His first job was at Adaptive Technology, where he created a tool for debugging software.",
+        "In 1991, he founded his first company, Pure Software, which produced products to troubleshoot software.",
+        "In 1997, he co-founded Netflix, offering flat rate movie rental-by-mail to customers in the US by combining two emerging technologies; DVDs, which were much easier to send as mail than VHS-cassettes, and a website from which to order them, instead of a paper catalogue.",
       ],
       "tags" : [
-        "torpedos"
+        "Entrepreneur"
       ]
       
     },
        {
       "name" : "Marc Randolph",
       "years" : "1914 - ",
-      "altCareer" : "Tech Entrepreneur",
+      "altCareer" : "Mountain Guide",
       "publicGenderIdentity" : "Male",
-      "birthday": "1958-29-04",
+      "birthday": "1958-04-29",
       "currTag": "Binary",
       "knownFor": "Netflix",
       "century":"20,21",
       "birthCountry":"USA",
-      "achievement": "Co-founder of Netflic",
+      "achievement": "Co-founder of Netflix",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Marc_Randolph_by_Gage_Skidmore.jpg/440px-Marc_Randolph_by_Gage_Skidmore.jpg",
+      "citation": "https://en.wikipedia.org/wiki/Reed_Hastings",
+      "ACM Classification": "",
       "facts" : [
-        "TESTER Fact 1",
-        "TESTER Fact 2"
+        "A serial entrepreneur who is said to have helped found the U.S. edition of Macworld magazine and the Ordinal computer mail-order businesses MacWarehouse and MicroWarehouse.",
+        "In 1997, he co-founded Netflix, offering flat rate movie rental-by-mail to customers in the US by combining two emerging technologies; DVDs, which were much easier to send as mail than VHS-cassettes, and a website from which to order them, instead of a paper catalogue.",
+        "His fascination with using computer software to track customers' buying behavior would ultimately inform his decision to create a user interface at Netflix that doubled as a market research platform."
       ],
       "tags" : [
-        "torpedos"
+        "Entrepreneur"
       ]
       
+    },
+       {
+      "name" : "Rebecca Guber",
+      "years" : "1926 - 2020",
+      "altCareer" : "University Professor",
+      "publicGenderIdentity" : "Female",
+      "birthday": "1926-07-02",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Argentina",
+      "achievement": "Pioneer in the development of CS in Argentina",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Marc_Randolph_by_Gage_Skidmore.jpg/440px-Marc_Randolph_by_Gage_Skidmore.jpg",
+      "citation": "https://en.wikipedia.org/wiki/Reed_Hastings",
+      "ACM Classification": "Mathematics and Information Science",
+      "facts" : [
+        "She was fundamental to the success of the early development of information science in Argentina.",
+        "co-founded a consultancy firm called Scientific Technical Advisors (ACT), in part to prevent the Institute's lines of research and work from being totally abandoned during Argentina's coup d'etat."
+      ],
+      "tags" : [
+        ""
+      ]
+      
+    },
+ {
+      "name" : "Cecilia Berdichevsky",
+      "years" : "1925 - 2010",
+      "altCareer" : "Accountant",
+      "publicGenderIdentity" : "Female",
+      "birthday": "1925-03-30",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Poland",
+      "achievement": "Programmer of Clementina Computer",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cecilia_Berdichevsky_with_Clementina.jpg/440px-Cecilia_Berdichevsky_with_Clementina.jpg",
+      "citation": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "ACM Classification": "Mathematics and Information Science",
+      "facts" : [
+        "She was fundamental to the success of the early development of information science in Argentina."
+      ],
+      "tags" : [
+        "Programming"
+      ]
+      
+    },
+  {
+      "name" : "Cicely Popplewell",
+      "years" : "1920 - 1995",
+      "altCareer" : "Advisor and administrator at the University of Manchester Computing Service",
+      "publicGenderIdentity" : "Female",
+      "birthday": "1920-10-29",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20",
+      "birthCountry":"England",
+      "achievement": "Programmer for the Ferranti Mark 1",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszxNILVAkSn4P4FXG6EGrdbURphqvrtMa7Y208w3_&s",
+      "citation": "https://en.wikipedia.org/wiki/Cicely_Popplewell",
+      "ACM Classification": "Software Engineering",
+      "facts" : [
+        "Fundamental in designing the programming language for the Ferranti Mark 1."
+      ],
+      "tags" : [
+        "Programming"
+      ]
+      
+    },
+{
+      "name" : "Soledad Antelada Toledano",
+      "years" : "1977 - ",
+      "altCareer" : "Hacker",
+      "publicGenderIdentity" : "Female",
+      "birthday": "unknown",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Argentina",
+      "achievement": "Founder of Girls Can Hack",
+      "source": "https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blteedf3e29bfc02f90/61c9d48c191c5560467dda6e/370x370_Soledad-Antelada-Toledano.jpg",
+      "citation": [
+            "https://es.wikipedia.org/wiki/Soledad_Antelada_Toledano",
+            "https://www.sans.org/profiles/soledad-antelada-toledano/"
+      ],
+      "ACM Classification": "Information Science",
+      "facts" : [
+        "The first female computer systems engineer and researcher in the cyber security division at Berkeley National Lab.",
+        "Founder of Girls Can Hack, an organization dedicated to engaging women in the cybersecurity field."
+      ],
+      "tags" : [
+        "Cybersecurity"
+      ]
+      
+    },
+{
+      "name" : "Ariel Lopez",
+      "years" : "unknown",
+      "altCareer" : "Career Coach",
+      "publicGenderIdentity" : "Female",
+      "birthday": "unknown",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Argentina",
+      "achievement": "CEO of Knac",
+      "source": "https://static.wixstatic.com/media/f9539a_d882705b31f14fd588ca14463fcf0f68~mv2.jpg/v1/fill/w_825,h_816,fp_0.50_0.50,q_90,enc_auto/f9539a_d882705b31f14fd588ca14463fcf0f68~mv2.jpg",
+      "citation": "https://www.arieldlopez.com/",
+      "ACM Classification": "",
+      "facts" : [
+        "CEO of Knac, a skills platform that aims to reinvent the job application for professionals and companies."
+      ],
+      "tags" : [
+        "Entrepreneur"
+      ]
+      
+    },
+{
+      "name" : "Megan Smith",
+      "years" : "1964 - ",
+      "altCareer" : "Co-founded the Malala Fund",
+      "publicGenderIdentity" : "Female",
+      "birthday": "1964-10-21",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Chief Technology Officer of the United States",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Megan_Smith_official_portrait.jpg/440px-Megan_Smith_official_portrait.jpg",
+      "citation": "https://en.wikipedia.org/wiki/Megan_Smith",
+     
+      "ACM Classification": "Information Technology",
+      "facts" : [
+        "The first female chief technology officer of the U.S. and served in the White House.",
+        "She promotes diversity throughout IT workplaces."
+      ],
+      "tags" : [
+        ""
+      ]
+      
+    },
+      {
+      "name" : "Adele Goldberg",
+      "years" : "1945 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Female",
+      "birthday": "1945-07-02",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Co-developer of the programming language Smalltalk-80",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adele_Goldberg_at_PyCon_2007.jpg/440px-Adele_Goldberg_at_PyCon_2007.jpg",
+      "citation": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
+     
+      "ACM Classification": "Computer Science",
+      "facts" : [
+        "Developed SIMULA 67 which is a programming setup that overlaps windows on graphic display screens.",
+        "Many of the concepts developed by her and her team at PARC became the basis for graphical user interfaces"
+      ],
+      "tags" : [
+        "Programming"
+      ]
+      
+    },
+       {
+      "name" : "George Antheill",
+      "years" : "1900 - 1959",
+      "altCareer" : "Avant-garde Composer",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1900-07-08",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20",
+      "birthCountry":"USA",
+      "achievement": "Co-inventor of Bluetooth",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Antheil_1927.jpg",
+      "citation": "https://en.wikipedia.org/wiki/George_Antheil",
+      "ACM Classification": "Computer Science",
+      "facts" : [
+        "Co-inventor of frequency-hopping signal technology which prevents torpedo's radio guidance system from being tracked or jammed during WWII.",
+        "The frequency-hopping invention has been incorporated into modern-day bluetooth and GPS technologies."
+      ],
+      "tags" : [
+        "Bluetooth",
+        "GPS",
+        "Torpedos"
+      ]
+      
+
     }
+
   ]
 }
