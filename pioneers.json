@@ -855,7 +855,7 @@
             "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan"
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACM Classification": "Mathematics",
       "facts" : [
       "He made significant contributions to Number Theory, a fundamental aspect of Computer Science",
       " As late as 2012, researchers continued to discover that mere comments in his writings about simple properties and similar outputs for certain findings were themselves profound and subtle number theory results that remained unsuspected until nearly a century after his death.",
@@ -868,7 +868,258 @@
       ]
       
 
-    }
+    },
+ {
+      "name" : "Håkon Wium Lie",
+      "years" : "1965 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "Birthday Unknown",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Norway",
+      "achievement": "Web Pioneer",
+      "source": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0dVxytlnyi5Ry9ELE1W_gArrXWe3pDqQXj7MDBTFd3B05aTzB",
+      "citation": [
+            "https://www.computerhope.com/people/hakon_wium_lie.htm"
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Best known for creating the concept and helping to develop CSS (Cascading Style Sheets) in 1994.",
+      "CTO (chief technology officer) of Opera Software from 1998 to 2016."
+ 
+      ],
+      "tags" : [
+      "CSS",
+      "Web"
+      ]
+      
+
+    },
+ {
+      "name" : "Brendan Eich",
+      "years" : "1961 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1961-07-04",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Creator of JavaScript",
+      "source": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTQ2yJtQHPCRyIDIJUxekLSXWMZEIktP4BCnwSEEGssDmHrTVfTGgDMSPMBl-ZyIyvS6fjVBnEpBe7A-aM",
+      "citation": [
+            "https://www.computerhope.com/people/brendan_eich.htm",
+            "https://en.wikipedia.org/wiki/Brendan_Eich"
+            
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Best known as the creator of the JavaScript programming language.",
+      "In early 1998, Eich co-founded the free and open-source software project Mozilla.",
+      "he designed the first SpiderMonkey engine for the Netscape Navigator browser at Netscape Communications."
+ 
+      ],
+      "tags" : [
+      "Programming",
+      "JavaScript"
+      ]
+      
+
+    },
+{
+      "name" : "Tim Berners Lee",
+      "years" : "1955 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1955-06-08",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"England",
+      "achievement": "Inventor of the World Wide Web",
+      "source": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRazsO0jYppX1hm4pVO4akKsasBojAI8Q6gAA2hemJP0PEO6TCzVZpUNEjRoG6hqhGGIgAMKz8_t5EZ9UI",
+      "citation": [
+            "https://www.computerhope.com/people/tim_berners-lee.htm"
+            
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Invented the WWW (World Wide Web).",
+      "Proposed HTML (Hypertext Markup Language).",
+      "Created the first website and web page."
+ 
+      ],
+      "tags" : [
+      "Programming",
+      "HTML",
+      "Internet",
+      "World Wide Web"
+      ]
+      
+
+    },
+{
+      "name" : "Mitchel Resnick",
+      "years" : "1956 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1956-06-12",
+      "currTag": "Sprite",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "LEGO Papert Professor of Learning Research",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mitchel_Resnick.jpg/440px-Mitchel_Resnick.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Mitchel_Resnick"
+            
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "His group has developed a new computer programming language, named Scratch, that makes it easier for children to create animated stories, video games, and interactive art.",
+      "He cofounded the Computer Clubhouse, an award-winning network of learning centers for youth from under-served communities. ",
+      "His research group has developed a variety of educational tools that engage people in new types of design activities and learning experiences, including the Programmable Bricks that were the basis for the award-winning Lego Mindstorms and StarLogo software."
+ 
+      ],
+      "tags" : [
+      "Programming",
+      "Scratch"
+      ]
+      
+
+    },
+{
+      "name" : "Yasmin Kafai",
+      "years" : "Years Unknown",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Female",
+      "birthday": "Birthday Unknown",
+      "currTag": "Sprite",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Professor of Learning Sciences",
+      "source": "https://www.gse.upenn.edu/sites/default/files/Kafai%20Yasmin%20Oct%202018.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Yasmin_Kafai"
+            
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "She co-developed a new computer programming language, named Scratch, that makes it easier for children to create animated stories, video games, and interactive art.",
+      "Utilizing constructionist theory, Kafai examines technology designs and culture, and helped to set the foundation for programmatic initiatives on games and learning.",
+      "She advocates for the involvement of girls in gaming and programming.",
+      "She is an active voice on the impact of virtual gaming on real-life social behavior in youth."
+      ],
+      "tags" : [
+      "Programming",
+      "Scratch"
+      ]
+      
+
+    },
+{
+      "name" : "Alexander Vazquez",
+      "years" : "Years Unknown",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "Birthday Unknown",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Co-founder of CodePen",
+      "source": "https://cpwebassets.codepen.io/assets/packs/about-alexvazquez-8fc9cd6a739e3963fa656a774d3a7ba2.jpg",
+      "citation": [
+            "https://codepen.io/about/"
+            
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He co-founded CodePen, a useful and liberating online code editor for developers of any skill.",
+      "He does JavaScript development for CodePen, both front end and back, as well as Rails "
+      ],
+      "tags" : [
+      "Programming",
+      "JavaScript",
+      "Open Source"
+      ]
+      
+
+    },
+{
+      "name" : "Chris Coyier",
+      "years" : "Years Unknown",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "Birthday Unknown",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Co-founder of CodePen",
+      "source": "https://cpwebassets.codepen.io/assets/packs/about-chriscoyier-c8ff091495ad78d06967b59d88f7c0ed.jpg",
+      "citation": [
+            "https://codepen.io/about/"
+            
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He co-founded CodePen, a useful and liberating online code editor for developers of any skill.",
+      "He is front-end developer and designer.",
+      "He writes a bunch of HTML, CSS, and JavaScript for CodePen."
+      ],
+      "tags" : [
+      "Programming",
+      "JavaScript",
+      "Open Source",
+      "HTML",
+      "CSS"
+      ]
+      
+
+    },
+{
+      "name" : "Martin Cooper",
+      "years" : "1928 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1928-12-26",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Father of the Cellular Phone",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Martin_Cooper%2C_Two_Antennas%2C_October_2010.jpg/400px-Martin_Cooper%2C_Two_Antennas%2C_October_2010.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)",
+            "https://www.britannica.com/biography/Martin-Cooper"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He placed the first public call from a handheld portable cell phone while working at Motorola, from a Manhattan sidewalk to his counterpart at competitor Bell Labs.",
+      "Formulated the law which states that the maximum number of voice conversations or equivalent data transactions that can be conducted in all of the useful radio spectrum over a given area doubles every 30 months."
+      ],
+      "tags" : [
+      "Inventor",
+      "Radio",
+      "Cellphone",
+      "Communications",
+      "Wireless Technology"
+      ]
+      
+
+    },
+
 
   ]
 }
