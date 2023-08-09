@@ -11,6 +11,7 @@
       "knownFor":"",
       "century":"20,21",
       "birthCountry":"USA",
+      "achievement": "Founder of KodewithKlossy",
       "source": "https://hips.hearstapps.com/hmg-prod/images/karlie-kloss-1549565171.jpg?resize=1200:*",
       "facts" : [
         "Karli's 1st fun fact",
@@ -34,6 +35,7 @@
       "knownFor": "Computer",
        "century":"19",
       "birthCountry":"England",
+      "achievement": "First Computer Programmer",
       "facts" : [
         "Ada Fact 1",
         "Ada Fact 2",
@@ -57,6 +59,7 @@
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"Austria-Hungary",
+      "achievement": "Inventor of Bluetooth",
       "facts" : [
         "Hedy Fact 1",
         "Hedy Fact 2",
@@ -82,6 +85,7 @@
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"",
+      "achievement": "1 Achievement goes here",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
@@ -102,6 +106,7 @@
       "knownFor": "Netflix",
       "century":"",
       "birthCountry":"",
+      "achievement": "one achievement goes here",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
@@ -121,6 +126,7 @@
        "knownFor": "Netflix",
       "century":"20,21",
       "birthCountry":"USA",
+       "achievement": "Co-founder of Netflix",
        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Re_publica_2015_-_Tag_1_%2817195424118%29.jpg/1024px-Re_publica_2015_-_Tag_1_%2817195424118%29.jpg",
       "facts" : [
         "TESTER Fact 1",
@@ -141,6 +147,7 @@
       "knownFor": "Netflix",
       "century":"20,21",
       "birthCountry":"USA",
+      "achievement": "Co-founder of Netflic",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
