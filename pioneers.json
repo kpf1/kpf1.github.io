@@ -1585,6 +1585,7 @@
       "facts" : [
       "Created the Lisp programming language family, influenced the design of the ALGOL programming language, and made timesharing popular.",
       "He coined the term artificial intelligence, also known as AI."
+      ],
       "tags" : [
       "Algorithm",
       "AI",
@@ -1610,7 +1611,8 @@
       ],
       "ACM Classification": "Computer Science",
       "facts" : [
-      "He is considered the father of the constructivist view of learning.",
+      "He is considered the father of the constructivist view of learning."
+      ],
       "tags" : [
       "Construct",
       "Theory"
@@ -1637,6 +1639,7 @@
       "ACM Classification": "Computer Science",
       "facts" : [
       "Conducted fundamental research in the field of human-computer interaction, developing new ideas, methods, and tools such as the direct manipulation interface, and his eight rules of design.",
+      ],
       "tags" : [
       "HCI",
       "Theory"
