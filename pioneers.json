@@ -1647,6 +1647,36 @@
       ]
       
 
+    },
+{
+      "name" : "Ian Sommerville",
+      "years" : "1951 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1951-02-23",
+      "currTag": "Sequence",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Scotland",
+      "achievement": "",
+      "source": "",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Ian_Sommerville_(software_engineer)"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "His research has included systems requirements engineering and system evolution.",
+      "Most widely read of his publications is probably his student text book Software Engineering, currently in its 10th edition.",
+      "He defined the process of Construction by configuration (CbC).",
+      "A major focus his work has been system dependability, including the use of social analysis techniques such as ethnography to better understand how people and computers deliver dependability."
+      ],
+      "tags" : [
+      "HCI",
+      "Theory"
+  
+      ]
+      
+
     }
 
   ]
