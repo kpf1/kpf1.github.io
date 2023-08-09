@@ -620,6 +620,254 @@
       ]
       
 
+    },
+{
+      "name" : "Jagadish Chandra Bose",
+      "years" : "1858 - 1937",
+      "altCareer" : "Botanist and Writer of Science Fiction",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1937-11-23",
+      "currTag": "",
+      "knownFor": "",
+      "century":"19,20",
+      "birthCountry":"British India",
+      "achievement": "Father of Radio Science",
+      "source": "https://www.computerhope.com/people/pictures/jagadish_bose.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/jagadish_bose.htm"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He pioneered the investigation of radio and microwave optics",
+      "He was the first person from the Indian subcontinent to receive a US patent, in 1904.",
+      "He invented the crescograph."
+            
+ 
+      ],
+      "tags" : [
+       "Inventor",
+      "Radio"
+            
+      ]
+      
+
+    },
+{
+      "name" : "Lois Haibt",
+      "years" : "1934 - ",
+      "altCareer" : "Mathematician",
+      "publicGenderIdentity" : "Female",
+      "birthday": "Birthday Unknown",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Early Pioneer in Computer Science",
+      "source": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi09N-4yxz1gP036cJdQJ83xcvNwzx302u7kmj0QYCv5jnbhBI",
+      "citation": [
+            "https://www.computerhope.com/people/lois_haibt.htm",
+            "https://en.wikipedia.org/wiki/Lois_Haibt"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Known for being the only female member of the ten-person team at IBM that developed FORTRAN, the first successful high level programming language.",
+      "Her estimates of flow in high-traffic areas of the computer were obtained by calculating how often basic blocks of the program would execute. Haibt employed Monte Carlo methods (statistical analysis) for these calculations.",
+      "She created the first syntactic analyzer of arithmetic expressions."
+      
+            
+ 
+      ],
+      "tags" : [
+       "Programming"            
+      ]
+      
+
+    },
+      {
+      "name" : "Norman Nie",
+      "years" : "1943 - 2015",
+      "altCareer" : "Social Scientist",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1943-04-01",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Technology Entrepreneur",
+      "source": "https://www.computerhope.com/people/pictures/norman_nie.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/norman_nie.htm",
+            "https://en.wikipedia.org/wiki/Norman_H._Nie"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Developed SPSS (Statistical Package for the Social Sciences) to automate data analysis for manipulating data files, transforming data, and creating statistics on a mainframe computer.",
+      "He started the Stanford Institute for the Quantitative Study of Society (SIQSS), where he served as director. The Institute is devoted to the pursuit and sponsorship of high-quality empirical social science research about the nature of society and social change.",
+      "He co-founded the research firm Knowledge Networks(KN), which to this day is the only survey vendor to collect survey data over the Internet using probability samples, placing computers into homes that do not have Internet connectivity."
+      
+            
+ 
+      ],
+      "tags" : [
+       "Data",
+      "Automation"
+      ]
+      
+
+    },
+      {
+      "name" : "Owen Mock",
+      "years" : "Years Unknown",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "Birthday Unknown",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Pioneer of Computer Operating Systems",
+      "source": "https://www.computerhope.com/people/pictures/owen_mock.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/owen_mock.htm"
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Computer software designer and programmer who pioneered computer operating systems in the 1950s.",
+      "He was part of a group of programmers at the Los Angeles division of NAA (North American Aviation) who developed the PACT series of compilers for the IBM 701 computer.",
+      "His group installed in the IBM 701 the North American 701 Monitor which was the first operating system to be in operation."
+            
+ 
+      ],
+      "tags" : [
+       "Operating Systems"
+      ]
+      
+
+    },
+ {
+      "name" : "Paul Mockapetris",
+      "years" : "1948 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1948-11-18",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Internet Pioneer",
+      "source": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwMQqqMcs1JF01epUMXaY8C-juCMpI_PeF4oThStthlHiPxm62",
+      "citation": [
+            "https://www.computerhope.com/people/paul_mockapetris.htm"
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Co-created the Internet DNS (Domain Name System).",
+      "Former program manager for networking at the ARPA (Advanced Research Projects Agency) of the U.S. Department of Defense.",
+      "He was Chief Scientist and chairman of the Board of IP address infrastructure software provider Nominum (1999 to 2016)."
+            
+ 
+      ],
+      "tags" : [
+       "Internet",
+      "Domain Name"
+      ]
+      
+
+    },
+ {
+      "name" : "Jonathan Postel",
+      "years" : "1943 - 1998",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1943-10-06",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20",
+      "birthCountry":"USA",
+      "achievement": "Internet Pioneer",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Jon_Postel_sitting_in_office_%28cropped%29.jpg/440px-Jon_Postel_sitting_in_office_%28cropped%29.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/jonathan_postel.htm"
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Co-created the Internet DNS (Domain Name System).",
+      "He made many significant contributions to the development of the Internet, particularly with respect to standards.",
+      "He is known principally for being the editor of the RFC (Request for Comments) document series, and for administering the IANA (Internet Assigned Numbers Authority) until his death."
+            
+ 
+      ],
+      "tags" : [
+       "Internet",
+      "Domain Name"
+      ]
+      
+
+    },
+      {
+      "name" : "Peter Landin",
+      "years" : "1930 - 2009",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1930-06-05",
+      "currTag": "Abstraction",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"England",
+      "achievement": "",
+      "source": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/45ab7fa3-2b7d-428b-b677-42cf1b5c26a6/Rendition/low-res/Content/Public",
+      "citation": [
+            "https://www.computerhope.com/people/peter_landin.htm"
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He was the first to realize that the lambda calculus could be used to model a programming language.",
+      "Responsible for inventing the SECD machine, the first abstract process virtual machine ever defined.",
+      "Invented the ISWIM programming language, defining the Landin off-side rule and for coining the term syntactic sugar."
+            
+ 
+      ],
+      "tags" : [
+      "Programming",
+      "Calculus",
+      "Virtual Machine"
+      ]
+      
+
+    },
+ {
+      "name" : "Srinivasa Ramanujan",
+      "years" : "1887 - 1920",
+      "altCareer" : "Mathematician",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1887-12-22",
+      "currTag": "",
+      "knownFor": "",
+      "century":"19,20",
+      "birthCountry":"British India",
+      "achievement": "",
+      "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrRVBgIVoxEdvTo0P8CoCOTEeNyiE1p9ZhHH5bR3g76iNrL2y",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan"
+     
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He made significant contributions to Number Theory, a fundamental aspect of Computer Science",
+      " As late as 2012, researchers continued to discover that mere comments in his writings about simple properties and similar outputs for certain findings were themselves profound and subtle number theory results that remained unsuspected until nearly a century after his death.",
+      "His lost notebook, containing discoveries from the last year of his life, caused great excitement among mathematicians when it was rediscovered in 1976."
+            
+ 
+      ],
+      "tags" : [
+      "Number Theory"
+      ]
+      
+
     }
 
   ]
