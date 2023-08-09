@@ -164,7 +164,7 @@
     },
        {
       "name" : "Marc Randolph",
-      "years" : "1914 - ",
+      "years" : "1958 - ",
       "altCareer" : "Mountain Guide",
       "publicGenderIdentity" : "Male",
       "birthday": "1958-04-29",
@@ -343,7 +343,7 @@
       "altCareer" : "",
       "publicGenderIdentity" : "Female",
       "birthday": "1945-07-02",
-      "currTag": "",
+      "currTag": "Computing Language Environment",
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"USA",
@@ -534,7 +534,7 @@
       "altCareer" : "",
       "publicGenderIdentity" : "Male",
       "birthday": "1929-01-27",
-      "currTag": "",
+      "currTag": "Process",
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"USA",
@@ -658,7 +658,7 @@
       "altCareer" : "Mathematician",
       "publicGenderIdentity" : "Female",
       "birthday": "Birthday Unknown",
-      "currTag": "",
+      "currTag": "Information",
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"USA",
@@ -845,7 +845,7 @@
       "altCareer" : "Mathematician",
       "publicGenderIdentity" : "Male",
       "birthday": "1887-12-22",
-      "currTag": "",
+      "currTag": "Variables",
       "knownFor": "",
       "century":"19,20",
       "birthCountry":"British India",
@@ -875,7 +875,7 @@
       "altCareer" : "",
       "publicGenderIdentity" : "Male",
       "birthday": "Birthday Unknown",
-      "currTag": "",
+      "currTag": "Representation (pictorial,iconic,physical,etc)",
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"Norway",
@@ -904,7 +904,7 @@
       "altCareer" : "",
       "publicGenderIdentity" : "Male",
       "birthday": "1961-07-04",
-      "currTag": "",
+      "currTag": "Event Handling",
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"USA",
@@ -936,7 +936,7 @@
       "altCareer" : "",
       "publicGenderIdentity" : "Male",
       "birthday": "1955-06-08",
-      "currTag": "",
+      "currTag": "Interface",
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"England",
@@ -1094,7 +1094,7 @@
       "altCareer" : "",
       "publicGenderIdentity" : "Male",
       "birthday": "1928-12-26",
-      "currTag": "",
+      "currTag": "Hidden Mechanism",
       "knownFor": "",
       "century":"20,21",
       "birthCountry":"USA",
@@ -1118,8 +1118,532 @@
       ]
       
 
-    }
+    },
+{
+      "name" : "Seymour Aubrey Papert",
+      "years" : "1928 - 2016",
+      "altCareer" : "Anti-apartheid Activist",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1928-02-29",
+      "currTag": "Computational Thinking",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"South Africa",
+      "achievement": "Pioneer of AI and the Constructionist Movement",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Seymour_Papert.jpg/440px-Seymour_Papert.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Seymour_Papert",
+            "https://en.wikipedia.org/wiki/Computational_thinking#:~:text=Neither%20the%20idea%20nor%20the,1980%20and%20again%20in%201996."
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He worked on learning theories, and was known for focusing on the impact of new technologies on learning in general, and in schools as learning organizations in particular.",
+      "He first used the term computational thinking in 1980 and again in 1996."
+      ],
+      "tags" : [
+      "Computational Thinking",
+      "Constructionist",
+      "AI"
+      ]
+      
 
+    },
+{
+      "name" : "Jiro Kawakita",
+      "years" : "1920 - 2009",
+      "altCareer" : "Anthropologist",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1920-05-11",
+      "currTag": "Decomposition",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Japan",
+      "achievement": "Inventor of the Affinity Diagram",
+      "source": "https://images.squarespace-cdn.com/content/v1/51ad3961e4b0ae1d9bf5b6f1/1626782675862-MAY3ZTONDQ5A86EQ5GJP/Kawakita_Jiro_BW.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Jiro_Kawakita"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Author of KJ method for organizing notes, also termed affinity walls in UX Research",
+      ],
+      "tags" : [
+      "UX",
+      "Mapping"
+      ]
+      
+
+    },
+      {
+      "name" : "David Axmark",
+      "years" : "1962 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1962-05-28",
+      "currTag": "Deterministic",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Sweden",
+      "achievement": "Co-founder of MySQL and MariaDB",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/David_Axmark.jpg/400px-David_Axmark.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/David_Axmark"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Co-created MySQL.",
+      "He co-founded MariaDB Foundation, the non-profit organisation charged with promoting, protecting and advancing the MariaDB codebase, community, and ecosystem.",
+
+      "He has been involved with free software since 1980 and has said he is committed to developing a successful business model using free open source software."
+      ],
+      "tags" : [
+      "SQL",
+      "Database",
+      "Programming"
+      ]
+      
+
+    },
+      {
+      "name" : "Ulf Michael Widenius",
+      "years" : "1962 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1962-03-03",
+      "currTag": "Deterministic",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Finland",
+      "achievement": "Co-founder of MySQL and MariaDB",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Michael_%E2%80%9DMonty%E2%80%9D_Widenius_at_MariaDB%E2%80%99s_Developers_Unconference_2019_in_New_York_City_03.jpg/360px-Michael_%E2%80%9DMonty%E2%80%9D_Widenius_at_MariaDB%E2%80%99s_Developers_Unconference_2019_in_New_York_City_03.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Michael_Widenius"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He co-created MySQL.",
+      "He co-founded MariaDB Foundation, the non-profit organisation charged with promoting, protecting and advancing the MariaDB codebase, community, and ecosystem."
+      ],
+      "tags" : [
+      "SQL",
+      "Database",
+      "Programming"
+      ]
+      
+
+    },
+      {
+      "name" : "Allan Larsson",
+      "years" : "Years Unknown",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "Birthday Unknown",
+      "currTag": "Deterministic",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Sweden",
+      "achievement": "Co-founder of MySQL and MariaDB",
+      "source": "",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Michael_Widenius"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He co-created MySQL.",
+      "He co-founded MariaDB Foundation, the non-profit organisation charged with promoting, protecting and advancing the MariaDB codebase, community, and ecosystem."
+      ],
+      "tags" : [
+      "SQL",
+      "Database",
+      "Programming"
+      ]
+      
+
+    },
+      {
+      "name" : "Gottfried Wilhelm Leibniz",
+      "years" : "1646 - 1716",
+      "altCareer" : "Philosopher",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1646-07-01",
+      "currTag": "Binary",
+      "knownFor": "",
+      "century":"17,18",
+      "birthCountry":"Holy Roman Empire",
+      "achievement": "Refiner of the Binary Number System",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/440px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+      ],
+      "ACM Classification": "Computer Science and Mathematics",
+      "facts" : [
+      "He invented the modern binary number system, the basis for binary code",
+      "He anticipated later developments in first-order predicate calculus, which were crucial for the theoretical foundations of computer science."
+      ],
+      "tags" : [
+      "Binary",
+      "Calculus"
+      ]
+      
+
+    },
+      {
+      "name" : "Kenneth Craik",
+      "years" : "1914 - 1945",
+      "altCareer" : "Philosopher and Psychologist",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1914-03-29",
+      "currTag": "Mental Models",
+      "knownFor": "",
+      "century":"20",
+      "birthCountry":"Scotland",
+      "achievement": "Cognitive Scientist",
+      "source": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/18888809/image/medium-940c35d90e8ec0d43a0f15d19e9ed04f.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Kenneth_Craik",
+            "https://en.wikipedia.org/wiki/Mental_model"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "In 1943, he suggested that the mind constructs small-scale models of reality that it uses to anticipate events, which has led to Information Mapping",
+      "During WWII,he contributed to major advances on flight simulators for the RAF and did major studies on the effects of fatigue on pilots."
+      ],
+      "tags" : [
+      "Mapping",
+      "World War II"
+      ]
+      
+
+    },
+      {
+      "name" : "Guido van Rossum",
+      "years" : "1956 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1956-01-31",
+      "currTag": "Parallel",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"The Netherlands",
+      "achievement": "Creator of Python",
+      "source": "https://www.computerhope.com/people/pictures/guido_van_rossum.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/guido_van_rossum.htm",
+            "https://en.wikipedia.org/wiki/Guido_van_Rossum"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Best known as the author of the Python programming language.",
+      "He continues to oversee the Python development process, making decisions where necessary."
+      ],
+      "tags" : [
+      "Open Source",
+      "Programming"
+      ]
+      
+
+    },
+      {
+      "name" : "Albert Ronald da Silva Meyer",
+      "years" : "1941 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1941-11-05",
+      "currTag": "Repetition",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Country of Birth is Unknown",
+      "achievement": "Co-creator of LOOP",
+      "source": "",
+      "citation": [
+            "https://en.wikipedia.org/wiki/LOOP_(programming_language)#:~:text=by%2DStep%20Tutorial-,History,unpublished%20PhD%20thesis%20of%20Ritchie.",
+            "https://en.wikipedia.org/wiki/Albert_R._Meyer"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Best known as the co-creator of LOOP programming language.",
+      "One of his seminal works introduced the concept of polynomial hierarchy."
+      ],
+      "tags" : [
+      "Programming"
+      ]
+      
+
+    },
+    {
+      "name" : "Dennis M. Ritchie",
+      "years" : "1941 - 2011",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1941-09-09",
+      "currTag": "Repetition",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Creator of C Programming Language",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/440px-Dennis_Ritchie_2011.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/LOOP_(programming_language)#:~:text=by%2DStep%20Tutorial-,History,unpublished%20PhD%20thesis%20of%20Ritchie.",
+            "https://en.wikipedia.org/wiki/Dennis_Ritchie"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Best known as the creator of C Programming Language.",
+      "He is the co-creator of LOOP programming language.",
+      "He was one of the developers on the Unix operating system."
+      ],
+      "tags" : [
+      "Programming",
+      "Operating System"
+      ]
+      
+
+    },
+    {
+      "name" : "Larry Page",
+      "years" : "1973 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1973-03-26",
+      "currTag": "Searching",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Co-founder of Google",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg/440px-Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Larry_Page"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Best known as the co-founder of the search enginge Google.",
+      "He also pushed for keeping Google's home page famously sparse in its design because it would help the search results load faster.",
+      "When acquiring products and companies for Google, he asked whether the business acquisition passed the toothbrush test as an initial qualifier, asking the question "Is it something you will use once or twice a day, and does it make your life better?". This approach looked for usefulness above profitability, and long-term potential over near-term financial gain, which has been noted as rare in business acquiring processes."
+      ],
+      "tags" : [
+      "Programming",
+      "Search Engine"
+      ]
+      
+
+    },
+ {
+      "name" : "Sergey Mikhailovich Brin",
+      "years" : "1973 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1973-08-21",
+      "currTag": "Searching",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Soviet Union",
+      "achievement": "Co-founder of Google",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sergey_Brin_Ted_2010.jpg/440px-Sergey_Brin_Ted_2010.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Sergey_Brin"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Best known as the co-founder of the search enginge Google.",
+      "His main focus during Google's early days was on developing data mining systems.",
+      "According to Forbes, he has donated over $1 billion to fund research on Parkinson's Disease."
+      ],
+      "tags" : [
+      "Programming",
+      "Search Engine"
+      ]
+      
+
+    },
+ {
+      "name" : "Sir Anthony Hoare",
+      "years" : "1934 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1934-01-11",
+      "currTag": "Sequential",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"British Ceylon",
+      "achievement": "",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sir_Tony_Hoare_IMG_5125.jpg/440px-Sir_Tony_Hoare_IMG_5125.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Tony_Hoare"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He was involved with developing international standards in programming and informatics, as a member of the International Federation for Information Processing (IFIP)",
+      "He is regretful about inventing the null reference",
+      "His most significant work includes Hoare logic, the formal language communicating sequential processes (CSP) used to specify the interactions between concurrent processes (and implemented in various programming languages such as occam)."
+      ],
+      "tags" : [
+      "Programming",
+      "Operating Systems",
+      "Algorithms",
+      "Logic"
+      ]
+      
+
+    },
+{
+      "name" : "Rasmus Lerdorf",
+      "years" : "1968 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1968-11-22",
+      "currTag": "Selection",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Greenland",
+      "achievement": "Co-author of PHP",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rasmus_Lerdorf_August_2014_%28cropped%29.JPG/440px-Rasmus_Lerdorf_August_2014_%28cropped%29.JPG",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Rasmus_Lerdorf"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He co-authored and inspired the PHP scripting language, authoring the first two versions of the language and participating in the development of later versions.",
+      "He is a frequent speaker at Open Source conferences around the world. During his keynote presentation at OSCMS 2007, he presented a security vulnerability in each of the projects represented at the conference that year."
+      ],
+      "tags" : [
+      "Programming",
+      "Open Source"
+      ]
+      
+
+    },
+{
+      "name" : "Pierre Omidyar",
+      "years" : "1967 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1967-06-21",
+      "currTag": "State",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"France",
+      "achievement": "Founder of eBay",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pomidyarji_%28cropped%29.jpg/440px-Pomidyarji_%28cropped%29.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Pierre_Omidyar"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "In 1995, he began to write the original computer code for an online venue to enable the listing of a direct person-to-person auction for collectible items. He created a simple prototype on his web page.",
+      "In 2010, Omidyar launched an online investigative reporting news service, Honolulu Civil Beat, covering civic affairs in Hawaii.",
+      "In 2013, prompted by the Edward Snowden leaks, he announced the creation of the journalism venture First Look Media."
+      ],
+      "tags" : [
+      "Webpage",
+      "eCommerce",
+      ]
+      
+
+    },
+{
+      "name" : "Edward Harry Friend",
+      "years" : "Years Unknown",
+      "altCareer" : "Actuary",
+      "publicGenderIdentity" : "Male",
+      "birthday": "Birthday Uknown",
+      "currTag": "Sorting",
+      "knownFor": "",
+      "century":"20",
+      "birthCountry":"Country of Birth is Unknown",
+      "achievement": "Earliest descriptor of Bubble Sort Algorithm",
+      "source": "",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Bubble_sort#:~:text=The%20earliest%20description%20of%20the,a%20%22Sorting%20exchange%20algorithm%22."
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "In a 1956 paper, he described a Sorting Exchange Algorithm.",
+      "His alggorithm description would later be referred to as Bubble Sort."
+      "tags" : [
+      "Algorithm"
+      ]
+      
+
+    },
+{
+      "name" : "John McCarthy",
+      "years" : "1927 - 2011",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1927-09-04",
+      "currTag": "Predictable and Non-predictable",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Coined the term Artificial Intelligence",
+      "source": "https://www.computerhope.com/people/pictures/john_mccarthy.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/john_mccarthy.htm"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Created the Lisp programming language family, influenced the design of the ALGOL programming language, and made timesharing popular.",
+      "He coined the term artificial intelligence, also known as AI."
+      "tags" : [
+      "Algorithm",
+      "AI",
+      "Programming"
+      ]
+      
+
+    },
+{
+      "name" : "Jean William Fritz Piaget",
+      "years" : "1896 - 1980",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1896-08-09",
+      "currTag": "Programming Constructs",
+      "knownFor": "",
+      "century":"19,20",
+      "birthCountry":"Switzerland",
+      "achievement": "Pioneer of Constructivist Theory",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jean_Piaget_in_Ann_Arbor_%28cropped%29.png",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Jean_Piaget"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He is considered the father of the constructivist view of learning.",
+      "tags" : [
+      "Construct",
+      "Theory"
+  
+      ]
+      
+
+    },
+{
+      "name" : "Ben Schneiderman",
+      "years" : "1947 - ",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1947-08-21",
+      "currTag": "Unplugged Computing",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Father of Human-Computer Interaction",
+      "source": "https://www.computerhope.com/people/pictures/ben_shneiderman.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/ben_shneiderman.htm"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Conducted fundamental research in the field of human-computer interaction, developing new ideas, methods, and tools such as the direct manipulation interface, and his eight rules of design.",
+      "tags" : [
+      "HCI",
+      "Theory"
+  
+      ]
+      
+
+    }
 
   ]
 }
