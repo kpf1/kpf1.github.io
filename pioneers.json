@@ -8,7 +8,9 @@
       "publicGenderIdentity" : "Female",
       "birthday": "1992-03-09",
       "currTag": "",
-      "knownFor": "",
+      "knownFor":"",
+      "century":"20,21",
+      "birthCountry":"USA",
       "source": "https://hips.hearstapps.com/hmg-prod/images/karlie-kloss-1549565171.jpg?resize=1200:*",
       "facts" : [
         "Karli's 1st fun fact",
@@ -30,6 +32,8 @@
       "birthday": "1815-10-12",
       "currTag": "",
       "knownFor": "Computer",
+       "century":"19",
+      "birthCountry":"England",
       "facts" : [
         "Ada Fact 1",
         "Ada Fact 2",
@@ -51,6 +55,8 @@
       "birthday": "1914-09-11",
       "currTag": "",
       "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"Austria-Hungary",
       "facts" : [
         "Hedy Fact 1",
         "Hedy Fact 2",
@@ -68,12 +74,14 @@
     },
     {
       "name" : "Tester Figueroa",
-      "years" : "1914 - ",
+      "years" : "1997 - ",
       "altCareer" : "Student",
       "publicGenderIdentity" : "Female",
-      "birthday": "1914-15-07",
+      "birthday": "1997-15-07",
       "currTag": "Algorithm",
       "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
@@ -92,6 +100,8 @@
       "birthday": "1914-15-07",
       "currTag": "Binary",
       "knownFor": "Netflix",
+      "century":"",
+      "birthCountry":"",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
@@ -109,6 +119,8 @@
       "birthday": "1960-08-10",
       "currTag": "Binary",
        "knownFor": "Netflix",
+      "century":"20,21",
+      "birthCountry":"USA",
        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Re_publica_2015_-_Tag_1_%2817195424118%29.jpg/1024px-Re_publica_2015_-_Tag_1_%2817195424118%29.jpg",
       "facts" : [
         "TESTER Fact 1",
@@ -127,6 +139,8 @@
       "birthday": "1958-29-04",
       "currTag": "Binary",
       "knownFor": "Netflix",
+      "century":"20,21",
+      "birthCountry":"USA",
       "facts" : [
         "TESTER Fact 1",
         "TESTER Fact 2"
