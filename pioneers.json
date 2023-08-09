@@ -13,7 +13,9 @@
       "birthCountry":"USA",
       "achievement": "Founder of KodewithKlossy",
       "source": "https://hips.hearstapps.com/hmg-prod/images/karlie-kloss-1549565171.jpg?resize=1200:*",
-      "citation": "https://www.kodewithklossy.com/about",
+      "citation": [
+            "https://www.kodewithklossy.com/about"
+      ],
       "ACM Classification": "Computer Science",
       "facts" : [
       "Following her own curiosity, she took a coding class at the Flatiron School, which ignited a passion to see more people with the opportunity to make change using tech. She awarded 21 scholarships are awarded to young people in NYC to learn how to code.",
@@ -38,7 +40,9 @@
       "birthCountry":"England",
       "achievement": "First Computer Programmer",
       "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850_-_cropped.png",
-      "citation": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Ada_Lovelace"
+      ],
       "ACM Classification": "Mathematics and Computer Science",
       "facts" : [
       "An English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. ",
@@ -64,7 +68,9 @@
       "birthCountry":"Austria-Hungary",
       "achievement": "Co-inventor of Bluetooth",
       "source": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTXgWCJS1CTWVT0kRtciSsId3w9F4Jxb5ZkxomAuIpBVzPc25NQYQpepn30cuqWxwkbrn1kjKVetp6KyD8",
-      "citation": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+      ],
       "ACM Classification": "Computer Science",
       "facts" : [
         "Co-inventor of frequency-hopping signal technology which prevents torpedo's radio guidance system from being tracked or jammed during WWII.",
@@ -90,7 +96,9 @@
       "birthCountry":"",
       "achievement": "1 Achievement goes here",
       "source": "",
-      "citation": "",
+      "citation": [
+            ""
+      ],
       "ACM Classification": "",
       "facts" : [
         "TESTER Fact 1",
@@ -114,7 +122,9 @@
       "birthCountry":"",
       "achievement": "one achievement goes here",
       "source": "",
-      "citation": "",
+      "citation": [
+            ""
+      ],
       "ACM Classification": "",
       "facts" : [
         "TESTER Fact 1",
@@ -137,12 +147,14 @@
       "birthCountry":"USA",
        "achievement": "Co-founder of Netflix",
        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Re_publica_2015_-_Tag_1_%2817195424118%29.jpg/1024px-Re_publica_2015_-_Tag_1_%2817195424118%29.jpg",
-       "citation": "https://en.wikipedia.org/wiki/Reed_Hastings",
+       "citation": [
+             "https://en.wikipedia.org/wiki/Reed_Hastings"
+       ],
       "ACM Classification": "",
       "facts" : [
         "His first job was at Adaptive Technology, where he created a tool for debugging software.",
         "In 1991, he founded his first company, Pure Software, which produced products to troubleshoot software.",
-        "In 1997, he co-founded Netflix, offering flat rate movie rental-by-mail to customers in the US by combining two emerging technologies; DVDs, which were much easier to send as mail than VHS-cassettes, and a website from which to order them, instead of a paper catalogue.",
+        "In 1997, he co-founded Netflix, offering flat rate movie rental-by-mail to customers in the US by combining two emerging technologies; DVDs, which were much easier to send as mail than VHS-cassettes, and a website from which to order them, instead of a paper catalogue."
       ],
       "tags" : [
         "Entrepreneur"
@@ -161,7 +173,9 @@
       "birthCountry":"USA",
       "achievement": "Co-founder of Netflix",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Marc_Randolph_by_Gage_Skidmore.jpg/440px-Marc_Randolph_by_Gage_Skidmore.jpg",
-      "citation": "https://en.wikipedia.org/wiki/Reed_Hastings",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Reed_Hastings"
+      ],
       "ACM Classification": "",
       "facts" : [
         "A serial entrepreneur who is said to have helped found the U.S. edition of Macworld magazine and the Ordinal computer mail-order businesses MacWarehouse and MicroWarehouse.",
@@ -174,7 +188,7 @@
       
     },
        {
-      "name" : "Rebecca Guber",
+      "name" : "Rebecca Cherep de Guber",
       "years" : "1926 - 2020",
       "altCareer" : "University Professor",
       "publicGenderIdentity" : "Female",
@@ -184,8 +198,10 @@
       "century":"20,21",
       "birthCountry":"Argentina",
       "achievement": "Pioneer in the development of CS in Argentina",
-      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Marc_Randolph_by_Gage_Skidmore.jpg/440px-Marc_Randolph_by_Gage_Skidmore.jpg",
-      "citation": "https://en.wikipedia.org/wiki/Reed_Hastings",
+      "source": "https://mathshistory.st-andrews.ac.uk/Biographies/Guber/guber.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Rebeca_Guber"
+      ],
       "ACM Classification": "Mathematics and Information Science",
       "facts" : [
         "She was fundamental to the success of the early development of information science in Argentina.",
@@ -208,7 +224,9 @@
       "birthCountry":"Poland",
       "achievement": "Programmer of Clementina Computer",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cecilia_Berdichevsky_with_Clementina.jpg/440px-Cecilia_Berdichevsky_with_Clementina.jpg",
-      "citation": "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky"
+      ],
       "ACM Classification": "Mathematics and Information Science",
       "facts" : [
         "She was fundamental to the success of the early development of information science in Argentina."
@@ -230,7 +248,9 @@
       "birthCountry":"England",
       "achievement": "Programmer for the Ferranti Mark 1",
       "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszxNILVAkSn4P4FXG6EGrdbURphqvrtMa7Y208w3_&s",
-      "citation": "https://en.wikipedia.org/wiki/Cicely_Popplewell",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Cicely_Popplewell"
+      ],
       "ACM Classification": "Software Engineering",
       "facts" : [
         "Fundamental in designing the programming language for the Ferranti Mark 1."
@@ -278,7 +298,9 @@
       "birthCountry":"Argentina",
       "achievement": "CEO of Knac",
       "source": "https://static.wixstatic.com/media/f9539a_d882705b31f14fd588ca14463fcf0f68~mv2.jpg/v1/fill/w_825,h_816,fp_0.50_0.50,q_90,enc_auto/f9539a_d882705b31f14fd588ca14463fcf0f68~mv2.jpg",
-      "citation": "https://www.arieldlopez.com/",
+      "citation": [
+            "https://www.arieldlopez.com/"
+      ],
       "ACM Classification": "",
       "facts" : [
         "CEO of Knac, a skills platform that aims to reinvent the job application for professionals and companies."
@@ -300,7 +322,9 @@
       "birthCountry":"USA",
       "achievement": "Chief Technology Officer of the United States",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Megan_Smith_official_portrait.jpg/440px-Megan_Smith_official_portrait.jpg",
-      "citation": "https://en.wikipedia.org/wiki/Megan_Smith",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Megan_Smith"
+      ],
      
       "ACM Classification": "Information Technology",
       "facts" : [
@@ -324,7 +348,9 @@
       "birthCountry":"USA",
       "achievement": "Co-developer of the programming language Smalltalk-80",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adele_Goldberg_at_PyCon_2007.jpg/440px-Adele_Goldberg_at_PyCon_2007.jpg",
-      "citation": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)",
+      "citation":[
+            "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)"
+      ],
      
       "ACM Classification": "Computer Science",
       "facts" : [
@@ -348,7 +374,9 @@
       "birthCountry":"USA",
       "achievement": "Co-inventor of Bluetooth",
       "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Antheil_1927.jpg",
-      "citation": "https://en.wikipedia.org/wiki/George_Antheil",
+      "citation": [
+            "https://en.wikipedia.org/wiki/George_Antheil"
+      ],
       "ACM Classification": "Computer Science",
       "facts" : [
         "Co-inventor of frequency-hopping signal technology which prevents torpedo's radio guidance system from being tracked or jammed during WWII.",
