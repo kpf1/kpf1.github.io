@@ -1550,7 +1550,7 @@
       "knownFor": "",
       "century":"20",
       "birthCountry":"Country of Birth is Unknown",
-      "achievement": "Earliest descriptor of Bubble Sort Algorithm",
+      "achievement": "Earliest Describer of Bubble Sort Algorithm",
       "source": "",
       "citation": [
             "https://en.wikipedia.org/wiki/Bubble_sort#:~:text=The%20earliest%20description%20of%20the,a%20%22Sorting%20exchange%20algorithm%22."
@@ -1559,6 +1559,7 @@
       "facts" : [
       "In a 1956 paper, he described a Sorting Exchange Algorithm.",
       "His alggorithm description would later be referred to as Bubble Sort."
+      ],
       "tags" : [
       "Algorithm"
       ]
