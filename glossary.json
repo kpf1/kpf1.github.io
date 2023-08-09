@@ -114,7 +114,7 @@
       "definition" : "Most programing languages share a set of common useful features such as selection (IF... ELSE) and repetition (fixed loops using REPEAT or FOR, conditional loops using FOREVER or WHILE), as well as ways of storing structured information. These are referred to as programming constructs. The constructs might look different in different languages, but they tend to work in a similar enough way that a programmer who knows one language can adapt to another one.​ ​You might also see the terms “control structures” or “control flow elements” to refer to programming constructs which specify what the program should do next in a sequence."
     },
       {
-      "word" : "Unplugges Computing",
+      "word" : "Unplugged Computing",
       "definition" : "You don’t need a computer to learn about computing concepts! “Unplugged” computing is when you use computational thinking away from the computers, for example with physical games or pencil and paper."
     },
       {
