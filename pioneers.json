@@ -79,7 +79,8 @@
       "tags" : [
         "Bluetooth",
         "GPS",
-        "Torpedos"
+        "Torpedos",
+      "World War II"
       ]
       
 
@@ -385,7 +386,237 @@
       "tags" : [
         "Bluetooth",
         "GPS",
-        "Torpedos"
+        "Torpedos",
+      "World War II"
+      ]
+      
+
+    },
+ {
+      "name" : "Xuedong Huang",
+      "years" : "1962 - ",
+      "altCareer" : "Advocate of AI for Accessibility and AI for Cultural Heritage",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1962-10-20",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"China",
+      "achievement": "",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Xuedong_Huang_2020_Wired_Magazine_Profile_Picture.jpg/360px-Xuedong_Huang_2020_Wired_Magazine_Profile_Picture.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Xuedong_Huang"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+        "He modernized spoken language and integrative AI services via Azure AI",
+      "Microsoft Research recruited him to found and lead Microsoft's spoken language initiatives in 1993.",
+      "He helped Microsoft and Azure Cognitive Services achieve multiple industry's first human parity milestones on the following open research tasks: transcribing conversational speech, machine translation, conversational QnA,and c omputer vision image captioning."
+      ],
+      "tags" : [
+        "Language",
+        "AI"
+      ]
+      
+
+    },
+ {
+      "name" : "Oliver Selfridge",
+      "years" : "1926 - 2008",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1926-05-10",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"England",
+      "achievement": "Father of Machine Perception",
+      "source": "https://www.computerhope.com/people/pictures/oliver_selfridge.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/oliver_selfridge.htm"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+        "Pioneer of AI (artificial intelligence) and called the father of machine perception.",
+      "Helped organize the first ever public meeting on AI with Norbert Minsky in 1955.",
+      "Wrote important early papers on neural networks and pattern recognition and machine learning, and his Pandemonium paper (1959) is generally recognized as a classic in artificial intelligence."
+      ],
+      "tags" : [
+        "AI"
+      ]
+      
+
+    },
+{
+      "name" : "Christopher Latham Scholes",
+      "years" : "1819 - 1890",
+      "altCareer" : "Politician",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1819-02-14",
+      "currTag": "",
+      "knownFor": "",
+      "century":"19",
+      "birthCountry":"USA",
+      "achievement": "Father of Machine Perception",
+      "source": "https://www.computerhope.com/people/pictures/christopher_sholes.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/christopher_sholes.htm"
+      ],
+      "ACM Classification": "Hardware",
+      "facts" : [
+        "Inventor of the typewriter.",
+      " Inventor of the first QWERTY keyboard."
+      ],
+      "tags" : [
+        "keyboard",
+        "QWERTY"
+      ]
+      
+
+    },
+{
+      "name" : "Lee McMahon",
+      "years" : "1931 - 1989",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "Birthday Unknown",
+      "currTag": "",
+      "knownFor": "",
+      "century":"19",
+      "birthCountry":"USA",
+      "achievement": "",
+      "source": "https://www.computerhope.com/people/pictures/lee_mcmahon.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/lee_mcmahon.htm"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He is best known for his contributions to early versions of the Unix operating system, in particular the sed stream editor.",
+      "Contributed to the development of comm, qsort (quicksort C library), grep, cref (Unix cross referencing function), cu, and Datakit (a virtual circuit switch developed at Bell Labs).",
+      "Created the McMahon system tournament, a tournament system for competitive games such as Chess and Go."
+      ],
+      "tags" : [
+       "Operating Systems"
+      ]
+      
+
+    },
+{
+      "name" : "Kimberly Bryant",
+      "years" : "1967 - ",
+      "altCareer" : "Electrical Engineer",
+      "publicGenderIdentity" : "Female",
+      "birthday": "1967-01-14",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Founder of Black Girls Code",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kimberly_Bryant%2C_Black_Girls_Code_%40_SXSW_2016_%28cropped%29.jpg/440px-Kimberly_Bryant%2C_Black_Girls_Code_%40_SXSW_2016_%28cropped%29.jpg",
+      "citation": [
+            "https://en.wikipedia.org/wiki/Kimberly_Bryant_(technologist)"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Founder of Black Girls Code, an organization to teach programming to girls from underrepresented communities."
+ 
+      ],
+      "tags" : [
+       "Entrepreneur"
+            
+      ]
+      
+
+    },
+{
+      "name" : "William English",
+      "years" : "1929 - 2020",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1929-01-27",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Inventor of the Ball Mouse",
+      "source": "https://www.computerhope.com/people/pictures/william_english.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/william_english.htm"
+      ],
+      "ACM Classification": "Hardware",
+      "facts" : [
+      "Known for his work int he development of the first computer mouse.",
+      "Key participant in The Mother of All Demos in 1964 that demonstrated the mouse and other technologies developed as part of the NLS (oN-Line System).",
+      "Developed a process to connect a terminal in the San Francisco Civic Auditorium to a host computer at SRI and transmit audio and video."
+            
+ 
+      ],
+      "tags" : [
+       "Mouse",
+      "Inventor"
+            
+      ]
+      
+
+    },
+{
+      "name" : "Evelyn Berezin",
+      "years" : "1925 - 2018",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Female",
+      "birthday": "1925-12-08",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20,21",
+      "birthCountry":"USA",
+      "achievement": "Designed First Word Processors",
+      "source": "https://www.computerhope.com/people/pictures/evelyn_berezin.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/evelyn_berezin.htm"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Known for designing one of the first word processors in 1968.",
+      "In 1969, she founded the Redactron Corporation, which manufactured a word processing system called the Data Secretary.",
+      "She helped design the first computer reservation systems and computer data systems for banks."
+            
+ 
+      ],
+      "tags" : [
+       "Word Processors",
+            
+      ]
+      
+
+    },
+{
+      "name" : "Frederic Calland Williams",
+      "years" : "1911 - 1977",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1911-06-26",
+      "currTag": "",
+      "knownFor": "",
+      "century":"20",
+      "birthCountry":"England",
+      "achievement": "Designed First Word Processors",
+      "source": "https://www.computerhope.com/people/pictures/frederic_williams.jpg",
+      "citation": [
+            "https://www.computerhope.com/people/frederic_williams.htm"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Best known for his significant contribution to the development of Radar while working at the Telecommunications Research Establishment during World War II.",
+      "Designed the first stored-program digital computer, the SSEM (Small Scale Experimental Machine).",
+      "Recognized for the invention of an early memory device known as the Williams-Kilburn tube."
+            
+ 
+      ],
+      "tags" : [
+       "Inventor",
+      "World War II",
+      "Radar"
+            
       ]
       
 
