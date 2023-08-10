@@ -8,7 +8,8 @@
     },
     {
       "word" : "Algorithm",
-      "definition" : "A precisely-defined sequence of instructions which is used to describe a process:​ a set of rules to describe how to get something done. Usually written for a human, rather than for a computer, to understand. ​Normally have a start point and an end point, usually have some input, and are expected to finish with a correct outcome. As they share many of these properties with computer programs, they are often easy to translate into a programming language. "
+      "definition" : "A precisely-defined sequence of instructions which is used to describe a process:​ a set of rules to describe how to get something done. Usually written for a human, rather than for a computer, to understand. ​Normally have a start point and an end point, usually have some input, and are expected to finish with a correct outcome. As they share many of these properties with computer programs, they are often easy to translate into a programming language. ",
+      "example":""
     },
     {
       "word" : "Binary",
@@ -22,11 +23,12 @@
     },
       {
       "word" : "Debugging",
-      "definition" : "An important skill for programmers who must be able to identify errors, find them in the program, correct them and then test that the bug is gone."
+      "definition" : "An important skill for programmers who must be able to identify errors, find them in the program, correct them and then test that the bug is gone.",
+      "example":""
     },
      {
       "word" : "Computing Language Environment",
-      "definition" : "Just like people, computers often understand a variety of different languages which are suitable for different purposes. Some computing languages are suitable for use by experts, or for certain sorts of scientific or data management tasks."
+      "definition" : "Just like people, computers often understand a variety of different languages which are suitable for different purposes. Some computing languages are suitable for use by experts, or for certain sorts of scientific or data management tasks.",
       "example":"Expert programmers are more likely to use textual languages which are written using English words and phrases with clearly specified rules (known as syntax and semantics). Beginner programmers will likely find a visual programming language easier to learn. In a visual language, the program is shown as a mixture of graphics and text, and the programmer can drag the graphics around to change the sequence of instructions. Often visual languages are blocks based, where programing constructs are represented in coloured blocks which look like jigsaw pieces. Scratch Jr is an example of an icon-based blocks language, as it uses blocks, icons and symbols so that programmers do not need to read or write."
     },
       {
@@ -36,7 +38,7 @@
     },
       {
       "word" : "Decomposition",
-      "definition" : "When you solve a big problem by breaking it up into smaller bits, solving those, and sticking the smaller solutions together into a final answer.​"
+      "definition" : "When you solve a big problem by breaking it up into smaller bits, solving those, and sticking the smaller solutions together into a final answer.​",
       "example":""
     },
       {
@@ -46,7 +48,7 @@
     },
       {
       "word" : "Event Handling",
-      "definition" : "It is common for a program to have to respond to input from the user, or messages from sensors or other computers."
+      "definition" : "It is common for a program to have to respond to input from the user, or messages from sensors or other computers.",
       "example": "For example, in a language like Scratch, there are blocks to help the programmer write code to respond to events like key presses from the user or the sprite colliding with another sprite."
     },
       {
