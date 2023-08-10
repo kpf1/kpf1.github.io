@@ -3,7 +3,8 @@
   "vocabulary" : [
     {
       "word" : "Abstraction",
-      "definition" : "Abstraction is a key concept in computer science. Abstraction is about improving understanding by separating core concepts from inessential detail. When solving complex problems, abstraction enables us to focus on the more important aspects, thus helping to manage complexity. For example, a timetable is an abstraction of what a pupil will do in a typical week. It shows the pupils details of the subjects they will learn, who will teach them and when and where the lessons happen. Details such as learning objectives for individual lessons are not included, as this is not important for the intended purpose of the timetable."  
+      "definition" : "Involved improving understanding by separating core concepts from inessential detail. When solving complex problems, it enables us to focus on the more important aspects, thus helping to manage complexity." ,
+      "example": "A timetable is an abstraction of what a pupil will do in a typical week. It shows the pupils details of the subjects they will learn, who will teach them and when and where the lessons happen. Details such as learning objectives for individual lessons are not included, as this is not important for the intended purpose of the timetable."
     },
     {
       "word" : "Algorithm",
@@ -11,55 +12,71 @@
     },
     {
       "word" : "Binary",
-      "definition" : "Most computers use binary numbers to represent information, through using “on” and “off” circuits to represent binary numbers.. We are more used to counting in the decimal number system, because we have 10 fingers to count on! Computers use binary to store and represent not just numbers, but also letters, images, videos, blocks in a visual programming language, and even the instructions that they can execute."
+      "definition" : "Most computers use these numbers to represent information, through using “on” and “off” circuits to represent the numbers. Computers use them to store and represent not just numbers, but also letters, images, videos, blocks in a visual programming language, and even the instructions that they can execute.",
+      "example" :""
     },
     {
-      "word" : "Bugs / Debugging",
-      "definition" : "A bug in a computer program happens when the programmer has made a mistake or has missed out a bit of code, causing the program to do the wrong thing. Debugging is an important skill for programmers who must be able to identify errors, find them in the program, correct them and then test that the bug is gone."
+      "word" : "Bugs",
+      "definition" : "This happens in a computer program when the programmer has made a mistake or has missed out a bit of code, causing the program to do the wrong thing.",
+      "example":""
     },
       {
-      "word" : "Tajin",
-      "definition" : "Chilli Powder"
+      "word" : "Debugging",
+      "definition" : "An important skill for programmers who must be able to identify errors, find them in the program, correct them and then test that the bug is gone."
     },
      {
       "word" : "Computing Language Environment",
-      "definition" : "Just like people, computers often understand a variety of different languages which are suitable for different purposes. Some computing languages are suitable for use by experts, or for certain sorts of scientific or data management tasks. Expert programmers are more likely to use textual languages which are written using English words and phrases with clearly specified rules (known as syntax and semantics). Beginner programmers will likely find a visual programming language easier to learn. In a visual language, the program is shown as a mixture of graphics and text, and the programmer can drag the graphics around to change the sequence of instructions. Often visual languages are blocks based, where programing constructs are represented in coloured blocks which look like jigsaw pieces. Scratch Jr is an example of an icon-based blocks language, as it uses blocks, icons and symbols so that programmers do not need to read or write."
+      "definition" : "Just like people, computers often understand a variety of different languages which are suitable for different purposes. Some computing languages are suitable for use by experts, or for certain sorts of scientific or data management tasks."
+      "example":"Expert programmers are more likely to use textual languages which are written using English words and phrases with clearly specified rules (known as syntax and semantics). Beginner programmers will likely find a visual programming language easier to learn. In a visual language, the program is shown as a mixture of graphics and text, and the programmer can drag the graphics around to change the sequence of instructions. Often visual languages are blocks based, where programing constructs are represented in coloured blocks which look like jigsaw pieces. Scratch Jr is an example of an icon-based blocks language, as it uses blocks, icons and symbols so that programmers do not need to read or write."
     },
       {
       "word" : "Computational Thinking",
-      "definition" : "Computational thinking is a powerful approach to solving problems. It is commonly used in computer science, but it is applicable to many everyday problems too. It allows us to take a complex problem, understand the problem better by using a computational framework, and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand."
+      "definition" : "A powerful approach to solving problems. It is commonly used in computer science, but it is applicable to many everyday problems too. It allows us to take a complex problem, understand the problem better by using a computational framework, and develop possible solutions. We can then present these solutions in a way that a computer, a human, or both, can understand.",
+      "example":""
     },
       {
       "word" : "Decomposition",
-      "definition" : "Decomposition is when you solve a big problem by breaking it up into smaller bits, solving those, and sticking the smaller solutions together into a final answer. More information on ​decomposition​"
+      "definition" : "When you solve a big problem by breaking it up into smaller bits, solving those, and sticking the smaller solutions together into a final answer.​"
+      "example":""
     },
       {
       "word" : "Deterministic",
-      "definition" : "An attribute of a process, which means that its outcome is predictable and repeatable. For example, the outcome of moving a counter a given number in Snakes and Ladders is deterministic, but the outcome of throwing the dice is not deterministic. All computing processes are in fact deterministic, unless their behaviour depends on non-deterministic input. Modern computing devices are so complex that this is not always obvious."
+      "definition" : "An attribute of a process, which means that its outcome is predictable and repeatable.",
+      "example":"For example, the outcome of moving a counter a given number in Snakes and Ladders is deterministic, but the outcome of throwing the dice is not deterministic. All computing processes are in fact deterministic, unless their behaviour depends on non-deterministic input. Modern computing devices are so complex that this is not always obvious."
     },
       {
       "word" : "Event Handling",
-      "definition" : "It is common for a program to have to respond to input from the user, or messages from sensors or other computers. This is called event handling. For example, in a language like Scratch, there are blocks to help the programmer write code to respond to events like key presses from the user or the sprite colliding with another sprite."
+      "definition" : "It is common for a program to have to respond to input from the user, or messages from sensors or other computers."
+      "example": "For example, in a language like Scratch, there are blocks to help the programmer write code to respond to events like key presses from the user or the sprite colliding with another sprite."
     },
       {
       "word" : "Hidden Mechanism",
-      "definition" : "A mechanism normally hidden from the view of a user of a device, for example the engine of a car or the wash cycle of a washing machine. Users often need to know something about this mechanism in order to use the device effectively; for example a washing machine does not quite function as a “magic box” where clothes go in dirty and come out clean, although this is the abstraction the designers aim for. We can use the machine more effectively when we understand more about how it works, about temperature, spin speeds and timing of washing cycles. Similarly, the more that a user understands the hidden mechanisms in computing devices such as smartphones and the Internet, the more value they can get from them."
+      "definition" : "A mechanism normally hidden from the view of a user of a device, for example the engine of a car or the wash cycle of a washing machine. Users often need to know something about this mechanism in order to use the device effectively.",
+      "example": "for example a washing machine does not quite function as a “magic box” where clothes go in dirty and come out clean, although this is the abstraction the designers aim for. We can use the machine more effectively when we understand more about how it works, about temperature, spin speeds and timing of washing cycles. Similarly, the more that a user understands the hidden mechanisms in computing devices such as smartphones and the Internet, the more value they can get from them."
     },
       {
       "word" : "Information",
-      "definition" : "Any kind of fact or knowledge about something tangible, like a physical item, or intangible, like an idea. In computing information is represented by a sequence of symbols which can be understood by a person or machine that will interpret the information. In computer memory all information is stored in the simplest form of information possible, binary."
+      "definition" : "Any kind of fact or knowledge about something tangible, like a physical item, or intangible, like an idea.",
+      "example": "In computing information is represented by a sequence of symbols which can be understood by a person or machine that will interpret the information. In computer memory all information is stored in the simplest form of information possible, binary."
     },
       {
       "word" : "Input / Process / Storage / Output",
-      "definition" : "This is the sequence of activities computers generally perform. The computer takes in information as ​input​ (perhaps the user types on the keyboard or moves the mouse), processes​ that information by following a sequence of instructions from a computer program, ​stores​ the results of the program for later (on a hard disk) and then ​output​s the results to the user (such as changing the display on the screen or playing a sound through the speaker). "
+      "definition" : "This is the sequence of activities computers generally perform.",
+      "example": "The computer takes in information as ​input​ (perhaps the user types on the keyboard or moves the mouse), processes​ that information by following a sequence of instructions from a computer program, ​stores​ the results of the program for later (on a hard disk) and then ​output​s the results to the user (such as changing the display on the screen or playing a sound through the speaker)."
     },
       {
       "word" : "Interface",
-      "definition" : "We use “interface” in this document to describe the part of a piece of software which the user sees and interacts with. In any software package, there is a lot of code which happens behind the scenes which the user has no need to be aware of. The interface between the program and the user enables the user to enter input (perhaps using a mouse or keyboard) and see the output (usually on screen). The way in which a computer interacts with people is sometimes known as its Human-Computer Interface."
+      "definition" : "Describes the part of a piece of software which the user sees and interacts with. In any software package, there is a lot of code which happens behind the scenes which the user has no need to be aware of. This enables the user to enter input (perhaps using a mouse or keyboard) and see the output (usually on screen).",
+      "example":""
     },
       {
+      "word": "Human-Computer Interface",
+      "definition": "The way in which a computer interacts with people.",
+      "example":""
+      {
       "word" : "Logic (AND / OR / NOT)",
-      "definition" : "Computers are built to process instructions containing boolean logic. Key words to learn here are AND, OR and NOT. Of course, we use these words in everyday language, but it is worth checking that your learners understand their precise meaning. These concepts are often used within selection statements in programs when the computer should take different action depending on the information it is processing. "
+      "definition" : "These concepts are often used within selection statements in programs when the computer should take different action depending on the information it is processing.",
+      "example": "Computers are built to process instructions containing boolean logic. Key words to learn here are AND, OR and NOT. Of course, we use these words in everyday language, but it is worth checking that your learners understand their precise meaning. "
     },
       {
       "word" : "Mental Models",
