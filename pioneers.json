@@ -37,7 +37,7 @@
       "altCareer" : "Countess",
       "publicGenderIdentity" : "Female",
       "birthday": "1815-10-12",
-      "currTag": "Algorithm",
+      "currTag": "Algorithms",
       "knownFor": "Computer",
        "century":[
              "19"
@@ -52,7 +52,7 @@
       "facts" : [
       "An English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. ",
       "She is often regarded as the first to recognize the full potential of a computing machine and the first computer programmer.",
-      "She was the first to recognize that the machine had applications beyond pure calculation, and created the first algorithm."
+      "She was the first to recognize that the machine had applications beyond pure calculation, and created the first Algorithms."
       ],
       "tags" : [
         "Computer",
@@ -1706,18 +1706,18 @@
             "20"
       ],
       "birthCountry":"Unknown",
-      "achievement": "Earliest Describer of Bubble Sort Algorithm",
+      "achievement": "Earliest Describer of Bubble Sort Algorithms",
       "source": "",
       "citation": [
-            "https://en.wikipedia.org/wiki/Bubble_sort#:~:text=The%20earliest%20description%20of%20the,a%20%22Sorting%20exchange%20algorithm%22."
+            "https://en.wikipedia.org/wiki/Bubble_sort#:~:text=The%20earliest%20description%20of%20the,a%20%22Sorting%20exchange%20Algorithms%22."
       ],
       "ACM Classification": "Computer Science",
       "facts" : [
-      "In a 1956 paper, he described a Sorting Exchange Algorithm.",
+      "In a 1956 paper, he described a Sorting Exchange Algorithms.",
       "His alggorithm description would later be referred to as Bubble Sort."
       ],
       "tags" : [
-      "Algorithm"
+      "Algorithms"
       ]
       
 
@@ -1746,7 +1746,7 @@
       "He coined the term artificial intelligence, also known as AI."
       ],
       "tags" : [
-      "Algorithm",
+      "Algorithms",
       "AI",
       "Programming"
       ]
