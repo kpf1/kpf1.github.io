@@ -83,63 +83,91 @@
     },
       {
       "word" : "Mental Models",
-      "definition" : "n the context of computing education, we use the term “mental model” to describe a learner’s understanding of how a computer system works. Novice programmers often have an incomplete and flawed model of how a program will execute which makes it harder for them to find bugs."
+      "definition" : "Describes a learner’s understanding of how a computer system works. Novice programmers often have an incomplete and flawed model of how a program will execute which makes it harder for them to find bugs.",
+      "example": ""
     },
       {
       "word" : "Parallel",
-      "definition" : "The term “parallel” is used to describe two or more processes which occur at the same time. For example, in Scratch you can have more than one script running at a time such as a cat sprite chasing a dog sprite."
+      "definition" : "Term used to describe two or more processes which occur at the same time.",
+      "example" : "For example, in Scratch you can have more than one script running at a time such as a cat sprite chasing a dog sprite."
     },
       {
       "word" : "Process",
-      "definition" : "A dynamic series of connected actions, many of them occurring one after the other in a sequential order, normally with apparent start and finish states (some processes may never finish however.) The behaviour of a process may depend on its context perhaps through input or observation of its environment. The behaviour of a process in a game might be affected by sensing the race car is driving over green grass, or a user clicking the mouse. The process of getting ready for play time might change if we see dark rain clouds outside."
+      "definition" : "A dynamic series of connected actions, many of them occurring one after the other in a sequential order, normally with apparent start and finish states.",
+      "example": "(some processes may never finish however). The behaviour of a process may depend on its context perhaps through input or observation of its environment. The behaviour of a process in a game might be affected by sensing the race car is driving over green grass, or a user clicking the mouse. The process of getting ready for play time might change if we see dark rain clouds outside."
     },
       {
       "word" : "Repetition",
-      "definition" : "Computers excel at doing the same thing over and over again without making a mistake. Most programming languages make it easy for the programmer to instruct the computer to repeat tasks using loops. ​Fixed repetition​ is when the computer is instructed to carry out a sequence of steps a certain number of times, e.g. “do this ten times: move one step to the left”. ​Conditional repetition​ is when the program keeps repeating a sequence of steps until a condition becomes true e.g. “keep doing this: if you haven’t hit the side of the screen yet, move one step to the left”."
+      "definition" : "Computers excel at doing the same thing over and over again without making a mistake. Most programming languages make it easy for the programmer to instruct the computer to repeat tasks using loops.",
+      "example":""
     },
       {
+      "word" : "Fixed Repetition",
+      "definition" : "When the computer is instructed to carry out a sequence of steps a certain number of times",
+      "example": "do this ten times: move one step to the left"
+      },
+      {
+      "word": "Conditional Repetition",
+      "definition": "When the program keeps repeating a sequence of steps until a condition becomes true",
+      "example": "keep doing this: if you haven’t hit the side of the screen yet, move one step to the left".
+      {
       "word" : "Representation (pictorial,iconic,physical,etc)",
-      "definition" : "Representations matter a lot in computer science, because sometimes problems are easier to solve if they are represented in a different way. For example, when young children learn about sequences, it might be easiest for them to understand the concept by interacting a physical robot. As they get better at understanding symbolic representations (such as pictures, diagrams or text), they can then reason about sequences more fluently because they do not have to rely on their memory. They can read a representation of a program and predict what it will do, or write their own instructions in pictorial form. Computers process on 1s and 0s, but this is an awful representation of information for humans because it is very hard to remember what long sequences of binary mean. This is why, behind the scenes, computers translate programs written in a language we understand into binary. Visual programming languages have a clearer representation for novices, but for experts they may be too cumbersome."
+      "definition" : "These matter a lot in computer science, because sometimes problems are easier to solve if they are shown in a different way.",
+      "example": "For example, when young children learn about sequences, it might be easiest for them to understand the concept by interacting a physical robot. As they get better at understanding symbolic representations (such as pictures, diagrams or text), they can then reason about sequences more fluently because they do not have to rely on their memory. They can read a representation of a program and predict what it will do, or write their own instructions in pictorial form. Computers process on 1s and 0s, but this is an awful representation of information for humans because it is very hard to remember what long sequences of binary mean. This is why, behind the scenes, computers translate programs written in a language we understand into binary. Visual programming languages have a clearer representation for novices, but for experts they may be too cumbersome."
     },
       {
       "word" : "Searching",
-      "definition" : "Computers spend a lot of time searching for specific items in large collections of information (for example, finding a customer name in a list of 80,000 customers). Because of this, computer scientists have spent a lot of time working out mathematically efficient ways to search information quickly. Often this requires the information to be carefully sorted to make searching easily. Simple search algorithms can also be used in real life problems."
+      "definition" : "Computers spend a lot of time doing this for specific items in large collections of information",
+      "example": "(for example, finding a customer name in a list of 80,000 customers). Because of this, computer scientists have spent a lot of time working out mathematically efficient ways to search information quickly. Often this requires the information to be carefully sorted to make searching easily. Simple search algorithms can also be used in real life problems."
     },
       {
       "word" : "Sequence",
-      "definition" : "A series of actions, where the actions occur one after another in the order they are listed in. "
+      "definition" : "A series of actions, where the actions occur one after another in the order they are listed in. ",
+      "example":""
     },
       {
       "word" : "Selection",
-      "definition" : "Making a choice about what action to carry out next based on testing if a condition is true or false. We can select whether to do something or nothing, select between two possible actions or select one of many possible actions Selection statements are often expressed in the format IF a condition is true THEN do something ELSE do something different."
+      "definition" : "Making a choice about what action to carry out next based on testing if a condition is true or false.",
+      "example": "We can select whether to do something or nothing, select between two possible actions or select one of many possible actions Selection statements are often expressed in the format IF a condition is true THEN do something ELSE do something different."
     },
       {
       "word" : "State",
-      "definition" : "A process or a program moves through a series of states as it executes instructions. A state is a useful abstraction to help you think about the main stages of a program and how the program moves between the states without worrying about the detail. For example, an order in an online shopping web site could be in the state of: order requested, purchased, delivered, or order complete. Every process should have one or more start or end states."
+      "definition" : "A process or a program moves through a series of conditions as it executes instructions.",
+      "example":"A state is a useful abstraction to help you think about the main stages of a program and how the program moves between the states without worrying about the detail. For example, an order in an online shopping web site could be in the state of: order requested, purchased, delivered, or order complete. Every process should have one or more start or end states."
     },
       {
       "word" : "Sorting",
-      "definition" : "Information isn’t very useful if it is stored in a big jumble. Computer scientists like their information to be sorted to make it easier to find items later or to process it in other ways. Information which is clearly structured is easier to sort. You can sort the same collection of information in different ways depending on which attribute you use. For example, if you had a collection of information about pupils in your school, you could sort them according to age or height, or sort them by class and then surname."
+      "definition" : "Information isn’t very useful if it is stored in a big jumble, so we do this.",
+      "example": "Computer scientists like their information to be sorted to make it easier to find items later or to process it in other ways. Information which is clearly structured is easier to sort. You can sort the same collection of information in different ways depending on which attribute you use. For example, if you had a collection of information about pupils in your school, you could sort them according to age or height, or sort them by class and then surname."
     },
       {
       "word" : "Sprite",
-      "definition" : "This is a term from animation, also used in some visual programming languages, to refer to a 2D picture which can move around the screen. In Scratch, sprites can have blocks attached to them which control their behaviour."
+      "definition" : "This is a term from animation, also used in some visual programming languages, to refer to a 2D picture which can move around the screen.",
+      "example": "In Scratch, sprites can have blocks attached to them which control their behaviour."
     },
       {
       "word" : "Predictable and Non-predictable",
-      "definition" : "In this document, we use the term “predictable” to describe programs where it is possible to look at the input and the program code and work out what the output will be. By “non-predictable” we mean programs where it is not possible to say in advance what the output will be given the input and the program code because the program uses randomness. For example, if you have a program which uses the equivalent of a dice roll to choose between six options, you know in advance the range of ​possible outputs, but you don’t know exactly which one will happen in any given run of the program."
+      "definition" : "Describes programs where it is possible to look at the input and the program code and work out what the output will be.",
+      "example": ""
     },
+      {
+      "word": "Non-predictable",         
+      "definition": "Describes programs where it is not possible to say in advance what the output will be given the input and the program code because the program uses randomness.",
+      "example": "For example, if you have a program which uses the equivalent of a dice roll to choose between six options, you know in advance the range of ​possible outputs, but you don’t know exactly which one will happen in any given run of the program."
+      },
       {
       "word" : "Programming Constructs",
       "definition" : "Most programing languages share a set of common useful features such as selection (IF... ELSE) and repetition (fixed loops using REPEAT or FOR, conditional loops using FOREVER or WHILE), as well as ways of storing structured information. These are referred to as programming constructs. The constructs might look different in different languages, but they tend to work in a similar enough way that a programmer who knows one language can adapt to another one.​ ​You might also see the terms “control structures” or “control flow elements” to refer to programming constructs which specify what the program should do next in a sequence."
     },
       {
       "word" : "Unplugged Computing",
-      "definition" : "You don’t need a computer to learn about computing concepts! “Unplugged” computing is when you use computational thinking away from the computers, for example with physical games or pencil and paper."
+      "definition" : "When you use computational thinking away from the computers",
+      "example": "You don’t need a computer to learn about computing concepts! Unplugged computing is when you use computational thinking away from the computers, for example with physical games or pencil and paper,for example with physical games or pencil and paper."
     },
       {
       "word" : "Variables",
-      "definition" : "A name given to an abstract concept within a computer program to store information temporarily while the program is running. Variables also exist in mathematics, for example the variable ​pi​ is used to refer to the ratio of a circle’s circumference to its diameter, and variables such as​ x​ and​ y​ are used in equations to refer to numbers whose value is not yet known. Unlike in algebra, however, computing variables can change their value over time while a program is running, for example to store the score of a game or for a countdown timer."
+      "definition" : "A name given to an abstract concept within a computer program to store information temporarily while the program is running.",
+      "example": "Variables also exist in mathematics, for example the variable ​pi​ is used to refer to the ratio of a circle’s circumference to its diameter, and variables such as​ x​ and​ y​ are used in equations to refer to numbers whose value is not yet known. Unlike in algebra, however, computing variables can change their value over time while a program is running, for example to store the score of a game or for a countdown timer."
     }
   ]
 }
