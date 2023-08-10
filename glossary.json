@@ -110,6 +110,7 @@
       "word": "Conditional Repetition",
       "definition": "When the program keeps repeating a sequence of steps until a condition becomes true",
       "example": "keep doing this: if you haven’t hit the side of the screen yet, move one step to the left".
+      },
       {
       "word" : "Representation (pictorial,iconic,physical,etc)",
       "definition" : "These matter a lot in computer science, because sometimes problems are easier to solve if they are shown in a different way.",
