@@ -9,7 +9,10 @@
       "birthday": "1992-03-09",
       "currTag": "",
       "knownFor":"",
-      "century":"20,21",
+      "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Founder of KodewithKlossy",
       "source": "https://hips.hearstapps.com/hmg-prod/images/karlie-kloss-1549565171.jpg?resize=1200:*",
@@ -36,7 +39,9 @@
       "birthday": "1815-10-12",
       "currTag": "Algorithm",
       "knownFor": "Computer",
-       "century":"19",
+       "century":[
+             "19"
+       ],
       "birthCountry":"England",
       "achievement": "First Computer Programmer",
       "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850_-_cropped.png",
@@ -64,7 +69,10 @@
       "birthday": "1914-09-11",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+       "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Austria-Hungary",
       "achievement": "Co-inventor of Bluetooth",
       "source": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTXgWCJS1CTWVT0kRtciSsId3w9F4Jxb5ZkxomAuIpBVzPc25NQYQpepn30cuqWxwkbrn1kjKVetp6KyD8",
@@ -93,8 +101,11 @@
       "birthday": "1997-05-08",
       "currTag": "Input / Process / Storage / Output",
       "knownFor": "",
-      "century":"20,21",
-      "birthCountry":"",
+        "century":[
+            "20",
+            "21"
+      ],
+      "birthCountry":"Uknown",
       "achievement": "1 Achievement goes here",
       "source": "",
       "citation": [
@@ -119,8 +130,11 @@
       "birthday": "1914-07-15",
       "currTag": "Logic (AND / OR / NOT)",
       "knownFor": "Netflix",
-      "century":"",
-      "birthCountry":"",
+        "century":[
+            "20",
+            "21"
+      ],
+      "birthCountry":"Uknown",
       "achievement": "one achievement goes here",
       "source": "",
       "citation": [
@@ -144,7 +158,10 @@
       "birthday": "1960-10-08",
       "currTag": "Bugs / Debugging",
        "knownFor": "Netflix",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
        "achievement": "Co-founder of Netflix",
        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Re_publica_2015_-_Tag_1_%2817195424118%29.jpg/1024px-Re_publica_2015_-_Tag_1_%2817195424118%29.jpg",
@@ -170,7 +187,10 @@
       "birthday": "1958-04-29",
       "currTag": "Binary",
       "knownFor": "Netflix",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Co-founder of Netflix",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Marc_Randolph_by_Gage_Skidmore.jpg/440px-Marc_Randolph_by_Gage_Skidmore.jpg",
@@ -196,7 +216,10 @@
       "birthday": "1926-07-02",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Argentina",
       "achievement": "Pioneer in the development of CS in Argentina",
       "source": "https://mathshistory.st-andrews.ac.uk/Biographies/Guber/guber.jpg",
@@ -209,7 +232,7 @@
         "co-founded a consultancy firm called Scientific Technical Advisors (ACT), in part to prevent the Institute's lines of research and work from being totally abandoned during Argentina's coup d'etat."
       ],
       "tags" : [
-        ""
+        "CS Activist"
       ]
       
     },
@@ -221,7 +244,10 @@
       "birthday": "1925-03-30",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Poland",
       "achievement": "Programmer of Clementina Computer",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cecilia_Berdichevsky_with_Clementina.jpg/440px-Cecilia_Berdichevsky_with_Clementina.jpg",
@@ -245,7 +271,9 @@
       "birthday": "1920-10-29",
       "currTag": "",
       "knownFor": "",
-      "century":"20",
+      "century":[
+            "20"
+      ],
       "birthCountry":"England",
       "achievement": "Programmer for the Ferranti Mark 1",
       "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszxNILVAkSn4P4FXG6EGrdbURphqvrtMa7Y208w3_&s",
@@ -269,7 +297,10 @@
       "birthday": "unknown",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Argentina",
       "achievement": "Founder of Girls Can Hack",
       "source": "https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blteedf3e29bfc02f90/61c9d48c191c5560467dda6e/370x370_Soledad-Antelada-Toledano.jpg",
@@ -295,7 +326,10 @@
       "birthday": "unknown",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Argentina",
       "achievement": "CEO of Knac",
       "source": "https://static.wixstatic.com/media/f9539a_d882705b31f14fd588ca14463fcf0f68~mv2.jpg/v1/fill/w_825,h_816,fp_0.50_0.50,q_90,enc_auto/f9539a_d882705b31f14fd588ca14463fcf0f68~mv2.jpg",
@@ -319,7 +353,10 @@
       "birthday": "1964-10-21",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Chief Technology Officer of the United States",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Megan_Smith_official_portrait.jpg/440px-Megan_Smith_official_portrait.jpg",
@@ -333,19 +370,22 @@
         "She promotes diversity throughout IT workplaces."
       ],
       "tags" : [
-        ""
+        "Government"
       ]
       
     },
       {
       "name" : "Adele Goldberg",
       "years" : "1945 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Female",
       "birthday": "1945-07-02",
       "currTag": "Computing Language Environment",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Co-developer of the programming language Smalltalk-80",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Adele_Goldberg_at_PyCon_2007.jpg/440px-Adele_Goldberg_at_PyCon_2007.jpg",
@@ -371,7 +411,9 @@
       "birthday": "1900-07-08",
       "currTag": "",
       "knownFor": "",
-      "century":"20",
+      "century":[
+            "20"
+      ],
       "birthCountry":"USA",
       "achievement": "Co-inventor of Bluetooth",
       "source": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Antheil_1927.jpg",
@@ -400,9 +442,12 @@
       "birthday": "1962-10-20",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"China",
-      "achievement": "",
+      "achievement": "Pioneer of Spoken Language Initatives",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Xuedong_Huang_2020_Wired_Magazine_Profile_Picture.jpg/360px-Xuedong_Huang_2020_Wired_Magazine_Profile_Picture.jpg",
       "citation": [
             "https://en.wikipedia.org/wiki/Xuedong_Huang"
@@ -423,12 +468,15 @@
  {
       "name" : "Oliver Selfridge",
       "years" : "1926 - 2008",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1926-05-10",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"England",
       "achievement": "Father of Machine Perception",
       "source": "https://www.computerhope.com/people/pictures/oliver_selfridge.jpg",
@@ -455,7 +503,9 @@
       "birthday": "1819-02-14",
       "currTag": "",
       "knownFor": "",
-      "century":"19",
+      "century":[
+            "19"
+      ],
       "birthCountry":"USA",
       "achievement": "Father of Machine Perception",
       "source": "https://www.computerhope.com/people/pictures/christopher_sholes.jpg",
@@ -477,14 +527,16 @@
 {
       "name" : "Lee McMahon",
       "years" : "1931 - 1989",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "Unknown",
       "currTag": "",
       "knownFor": "",
-      "century":"19",
+      "century":[
+            "19"
+      ],
       "birthCountry":"USA",
-      "achievement": "",
+      "achievement": "American Computer Scientist",
       "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bell_telephone_magazine_%281922%29_%2814756062432%29.jpg",
       "citation": [
             "https://www.computerhope.com/people/lee_mcmahon.htm"
@@ -509,7 +561,10 @@
       "birthday": "1967-01-14",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Founder of Black Girls Code",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kimberly_Bryant%2C_Black_Girls_Code_%40_SXSW_2016_%28cropped%29.jpg/440px-Kimberly_Bryant%2C_Black_Girls_Code_%40_SXSW_2016_%28cropped%29.jpg",
@@ -536,7 +591,10 @@
       "birthday": "1929-01-27",
       "currTag": "Process",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Inventor of the Ball Mouse",
       "source": "https://www.computerhope.com/people/pictures/william_english.jpg",
@@ -567,7 +625,10 @@
       "birthday": "1925-12-08",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Designed First Word Processors",
       "source": "https://www.computerhope.com/people/pictures/evelyn_berezin.jpg",
@@ -597,9 +658,11 @@
       "birthday": "1911-06-26",
       "currTag": "",
       "knownFor": "",
-      "century":"20",
+      "century":[
+            "20"
+      ],
       "birthCountry":"England",
-      "achievement": "",
+      "achievement": "English Engineer",
       "source": "https://www.computerhope.com/people/pictures/frederic_williams.jpg",
       "citation": [
             "https://www.computerhope.com/people/frederic_williams.htm"
@@ -629,7 +692,10 @@
       "birthday": "1937-11-23",
       "currTag": "",
       "knownFor": "",
-      "century":"19,20",
+        "century":[
+            "19",
+            "20"
+      ],
       "birthCountry":"British India",
       "achievement": "Father of Radio Science",
       "source": "https://www.computerhope.com/people/pictures/jagadish_bose.jpg",
@@ -660,7 +726,10 @@
       "birthday": "Unknown",
       "currTag": "Information",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Early Pioneer in Computer Science",
       "source": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi09N-4yxz1gP036cJdQJ83xcvNwzx302u7kmj0QYCv5jnbhBI",
@@ -691,7 +760,10 @@
       "birthday": "1943-04-01",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Technology Entrepreneur",
       "source": "https://www.computerhope.com/people/pictures/norman_nie.jpg",
@@ -718,12 +790,15 @@
       {
       "name" : "Owen Mock",
       "years" : "Years Unknown",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "Unknown",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Pioneer of Computer Operating Systems",
       "source": "https://www.computerhope.com/people/pictures/owen_mock.jpg",
@@ -748,12 +823,15 @@
  {
       "name" : "Paul Mockapetris",
       "years" : "1948 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1948-11-18",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Internet Pioneer",
       "source": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwMQqqMcs1JF01epUMXaY8C-juCMpI_PeF4oThStthlHiPxm62",
@@ -779,12 +857,14 @@
  {
       "name" : "Jonathan Postel",
       "years" : "1943 - 1998",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1943-10-06",
       "currTag": "",
       "knownFor": "",
-      "century":"20",
+      "century":[
+            "20"
+      ],
       "birthCountry":"USA",
       "achievement": "Internet Pioneer",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Jon_Postel_sitting_in_office_%28cropped%29.jpg/440px-Jon_Postel_sitting_in_office_%28cropped%29.jpg",
@@ -810,12 +890,15 @@
       {
       "name" : "Peter Landin",
       "years" : "1930 - 2009",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1930-06-05",
       "currTag": "Abstraction",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"England",
       "achievement": "",
       "source": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/45ab7fa3-2b7d-428b-b677-42cf1b5c26a6/Rendition/low-res/Content/Public",
@@ -846,8 +929,11 @@
       "publicGenderIdentity" : "Male",
       "birthday": "1887-12-22",
       "currTag": "Variables",
-      "knownFor": "",
-      "century":"19,20",
+      "knownFor": "Uknown",
+        "century":[
+            "19",
+            "20"
+      ],
       "birthCountry":"British India",
       "achievement": "",
       "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrRVBgIVoxEdvTo0P8CoCOTEeNyiE1p9ZhHH5bR3g76iNrL2y",
@@ -872,12 +958,15 @@
  {
       "name" : "Håkon Wium Lie",
       "years" : "1965 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "Unknown",
       "currTag": "Representation (pictorial,iconic,physical,etc)",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Norway",
       "achievement": "Web Pioneer",
       "source": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0dVxytlnyi5Ry9ELE1W_gArrXWe3pDqQXj7MDBTFd3B05aTzB",
@@ -901,12 +990,15 @@
  {
       "name" : "Brendan Eich",
       "years" : "1961 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1961-07-04",
       "currTag": "Event Handling",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Creator of JavaScript",
       "source": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTQ2yJtQHPCRyIDIJUxekLSXWMZEIktP4BCnwSEEGssDmHrTVfTGgDMSPMBl-ZyIyvS6fjVBnEpBe7A-aM",
@@ -933,12 +1025,15 @@
 {
       "name" : "Tim Berners Lee",
       "years" : "1955 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1955-06-08",
       "currTag": "Interface",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"England",
       "achievement": "Inventor of the World Wide Web",
       "source": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRazsO0jYppX1hm4pVO4akKsasBojAI8Q6gAA2hemJP0PEO6TCzVZpUNEjRoG6hqhGGIgAMKz8_t5EZ9UI",
@@ -966,12 +1061,15 @@
 {
       "name" : "Mitchel Resnick",
       "years" : "1956 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1956-06-12",
       "currTag": "Sprite",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "LEGO Papert Professor of Learning Research",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mitchel_Resnick.jpg/440px-Mitchel_Resnick.jpg",
@@ -997,12 +1095,15 @@
 {
       "name" : "Yasmin Kafai",
       "years" : "Years Unknown",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Female",
       "birthday": "Unknown",
       "currTag": "Sprite",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Professor of Learning Sciences",
       "source": "https://www.gse.upenn.edu/sites/default/files/Kafai%20Yasmin%20Oct%202018.jpg",
@@ -1028,12 +1129,15 @@
 {
       "name" : "Alexander Vazquez",
       "years" : "Years Unknown",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "Unknown",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Co-founder of CodePen",
       "source": "https://cpwebassets.codepen.io/assets/packs/about-alexvazquez-8fc9cd6a739e3963fa656a774d3a7ba2.jpg",
@@ -1058,12 +1162,15 @@
 {
       "name" : "Chris Coyier",
       "years" : "Years Unknown",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "Unknown",
       "currTag": "",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Co-founder of CodePen",
       "source": "https://cpwebassets.codepen.io/assets/packs/about-chriscoyier-c8ff091495ad78d06967b59d88f7c0ed.jpg",
@@ -1091,12 +1198,15 @@
 {
       "name" : "Martin Cooper",
       "years" : "1928 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1928-12-26",
       "currTag": "Hidden Mechanism",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Father of the Cellular Phone",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Martin_Cooper%2C_Two_Antennas%2C_October_2010.jpg/400px-Martin_Cooper%2C_Two_Antennas%2C_October_2010.jpg",
@@ -1127,7 +1237,10 @@
       "birthday": "1928-02-29",
       "currTag": "Computational Thinking",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"South Africa",
       "achievement": "Pioneer of AI and the Constructionist Movement",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Seymour_Papert.jpg/440px-Seymour_Papert.jpg",
@@ -1156,7 +1269,10 @@
       "birthday": "1920-05-11",
       "currTag": "Decomposition",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Japan",
       "achievement": "Inventor of the Affinity Diagram",
       "source": "https://images.squarespace-cdn.com/content/v1/51ad3961e4b0ae1d9bf5b6f1/1626782675862-MAY3ZTONDQ5A86EQ5GJP/Kawakita_Jiro_BW.jpg",
@@ -1177,12 +1293,15 @@
       {
       "name" : "David Axmark",
       "years" : "1962 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1962-05-28",
       "currTag": "Deterministic",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Sweden",
       "achievement": "Co-founder of MySQL and MariaDB",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/David_Axmark.jpg/400px-David_Axmark.jpg",
@@ -1207,12 +1326,15 @@
       {
       "name" : "Ulf Michael Widenius",
       "years" : "1962 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1962-03-03",
       "currTag": "Deterministic",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Finland",
       "achievement": "Co-founder of MySQL and MariaDB",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Michael_%E2%80%9DMonty%E2%80%9D_Widenius_at_MariaDB%E2%80%99s_Developers_Unconference_2019_in_New_York_City_03.jpg/360px-Michael_%E2%80%9DMonty%E2%80%9D_Widenius_at_MariaDB%E2%80%99s_Developers_Unconference_2019_in_New_York_City_03.jpg",
@@ -1235,12 +1357,15 @@
       {
       "name" : "Allan Larsson",
       "years" : "Years Unknown",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "Unknown",
       "currTag": "Deterministic",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Sweden",
       "achievement": "Co-founder of MySQL and MariaDB",
       "source": "",
@@ -1268,7 +1393,10 @@
       "birthday": "1646-07-01",
       "currTag": "Binary",
       "knownFor": "",
-      "century":"17,18",
+        "century":[
+            "17",
+            "18"
+      ],
       "birthCountry":"Holy Roman Empire",
       "achievement": "Refiner of the Binary Number System",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg/440px-Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg",
@@ -1295,7 +1423,9 @@
       "birthday": "1914-03-29",
       "currTag": "Mental Models",
       "knownFor": "",
-      "century":"20",
+      "century":[
+            "20"
+      ],
       "birthCountry":"Scotland",
       "achievement": "Cognitive Scientist",
       "source": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/18888809/image/medium-940c35d90e8ec0d43a0f15d19e9ed04f.jpg",
@@ -1318,12 +1448,15 @@
       {
       "name" : "Guido van Rossum",
       "years" : "1956 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1956-01-31",
       "currTag": "Parallel",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"The Netherlands",
       "achievement": "Creator of Python",
       "source": "https://www.computerhope.com/people/pictures/guido_van_rossum.jpg",
@@ -1346,12 +1479,15 @@
       {
       "name" : "Albert Ronald da Silva Meyer",
       "years" : "1941 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1941-11-05",
       "currTag": "Repetition",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Unknown",
       "achievement": "Co-creator of LOOP",
       "source": "",
@@ -1373,12 +1509,15 @@
     {
       "name" : "Dennis M. Ritchie",
       "years" : "1941 - 2011",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1941-09-09",
       "currTag": "Repetition",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Creator of C Programming Language",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dennis_Ritchie_2011.jpg/440px-Dennis_Ritchie_2011.jpg",
@@ -1402,12 +1541,15 @@
     {
       "name" : "Larry Page",
       "years" : "1973 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1973-03-26",
       "currTag": "Searching",
       "knownFor": "",
-      "century":"20,21",
+       "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Co-founder of Google",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg/440px-Larry_Page_in_the_European_Parliament%2C_17.06.2009_%28cropped%29.jpg",
@@ -1430,12 +1572,15 @@
  {
       "name" : "Sergey Mikhailovich Brin",
       "years" : "1973 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1973-08-21",
       "currTag": "Searching",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Soviet Union",
       "achievement": "Co-founder of Google",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sergey_Brin_Ted_2010.jpg/440px-Sergey_Brin_Ted_2010.jpg",
@@ -1458,12 +1603,15 @@
  {
       "name" : "Sir Anthony Hoare",
       "years" : "1934 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1934-01-11",
       "currTag": "Sequential",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"British Ceylon",
       "achievement": "",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sir_Tony_Hoare_IMG_5125.jpg/440px-Sir_Tony_Hoare_IMG_5125.jpg",
@@ -1488,12 +1636,15 @@
 {
       "name" : "Rasmus Lerdorf",
       "years" : "1968 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1968-11-22",
       "currTag": "Selection",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Greenland",
       "achievement": "Co-author of PHP",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rasmus_Lerdorf_August_2014_%28cropped%29.JPG/440px-Rasmus_Lerdorf_August_2014_%28cropped%29.JPG",
@@ -1515,12 +1666,15 @@
 {
       "name" : "Pierre Omidyar",
       "years" : "1967 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1967-06-21",
       "currTag": "State",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"France",
       "achievement": "Founder of eBay",
       "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pomidyarji_%28cropped%29.jpg/440px-Pomidyarji_%28cropped%29.jpg",
@@ -1548,7 +1702,9 @@
       "birthday": "Birthday Uknown",
       "currTag": "Sorting",
       "knownFor": "",
-      "century":"20",
+      "century":[
+            "20"
+      ],
       "birthCountry":"Unknown",
       "achievement": "Earliest Describer of Bubble Sort Algorithm",
       "source": "",
@@ -1569,12 +1725,15 @@
 {
       "name" : "John McCarthy",
       "years" : "1927 - 2011",
-      "altCareer" : "",
+      "altCareer" : "Known",
       "publicGenderIdentity" : "Male",
       "birthday": "1927-09-04",
       "currTag": "Predictable and Non-predictable",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Coined the term Artificial Intelligence",
       "source": "https://www.computerhope.com/people/pictures/john_mccarthy.jpg",
@@ -1597,12 +1756,15 @@
 {
       "name" : "Jean William Fritz Piaget",
       "years" : "1896 - 1980",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1896-08-09",
       "currTag": "Programming Constructs",
       "knownFor": "",
-      "century":"19,20",
+        "century":[
+            "19",
+            "20"
+      ],
       "birthCountry":"Switzerland",
       "achievement": "Pioneer of Constructivist Theory",
       "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jean_Piaget_in_Ann_Arbor_%28cropped%29.png",
@@ -1624,12 +1786,15 @@
 {
       "name" : "Ben Schneiderman",
       "years" : "1947 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1947-08-21",
       "currTag": "Unplugged Computing",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"USA",
       "achievement": "Father of Human-Computer Interaction",
       "source": "https://www.computerhope.com/people/pictures/ben_shneiderman.jpg",
@@ -1651,12 +1816,15 @@
 {
       "name" : "Ian Sommerville",
       "years" : "1951 - ",
-      "altCareer" : "",
+      "altCareer" : "Uknown",
       "publicGenderIdentity" : "Male",
       "birthday": "1951-02-23",
       "currTag": "Sequence",
       "knownFor": "",
-      "century":"20,21",
+        "century":[
+            "20",
+            "21"
+      ],
       "birthCountry":"Scotland",
       "achievement": "",
       "source": "",
