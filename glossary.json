@@ -75,6 +75,7 @@
       "word": "Human-Computer Interface",
       "definition": "The way in which a computer interacts with people.",
       "example":""
+      },
       {
       "word" : "Logic (AND / OR / NOT)",
       "definition" : "These concepts are often used within selection statements in programs when the computer should take different action depending on the information it is processing.",
