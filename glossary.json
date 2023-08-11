@@ -8,8 +8,8 @@
     },
     {
       "word" : "Algorithm",
-      "definition" : "A precisely-defined sequence of instructions which is used to describe a process:​ a set of rules to describe how to get something done. Usually written for a human, rather than for a computer, to understand. ​Normally have a start point and an end point, usually have some input, and are expected to finish with a correct outcome. As they share many of these properties with computer programs, they are often easy to translate into a programming language. ",
-      "example":""
+      "definition" : "A precisely-defined sequence of instructions which is used to describe a process:​ a set of rules to describe how to get something done. Usually written for a human, rather than for a computer, to understand.",
+      "example":"​Normally have a start point and an end point, usually have some input, and are expected to finish with a correct outcome. As they share many of these properties with computer programs, they are often easy to translate into a programming language. "
     },
     {
       "word" : "Binary",
@@ -68,8 +68,8 @@
     },
       {
       "word" : "Interface",
-      "definition" : "Describes the part of a piece of software which the user sees and interacts with. In any software package, there is a lot of code which happens behind the scenes which the user has no need to be aware of. This enables the user to enter input (perhaps using a mouse or keyboard) and see the output (usually on screen).",
-      "example":""
+      "definition" : "Describes the part of a piece of software which the user sees and interacts with. In any software package, there is a lot of code which happens behind the scenes which the user has no need to be aware of. This enables the user to enter input and see the output.",
+      "example":"(perhaps inputs can be done using a mouse or keyboard)(output is usually on screen)"
     },
       {
       "word": "Human-Computer Interface",
@@ -158,7 +158,8 @@
       },
       {
       "word" : "Programming Constructs",
-      "definition" : "Most programing languages share a set of common useful features such as selection (IF... ELSE) and repetition (fixed loops using REPEAT or FOR, conditional loops using FOREVER or WHILE), as well as ways of storing structured information. These are referred to as programming constructs. The constructs might look different in different languages, but they tend to work in a similar enough way that a programmer who knows one language can adapt to another one.​ ​You might also see the terms “control structures” or “control flow elements” to refer to programming constructs which specify what the program should do next in a sequence."
+      "definition" : "Most programing languages share a set of common useful features",
+      "example": "such as selection (IF... ELSE) and repetition (fixed loops using REPEAT or FOR, conditional loops using FOREVER or WHILE), as well as ways of storing structured information. These are referred to as programming constructs. The constructs might look different in different languages, but they tend to work in a similar enough way that a programmer who knows one language can adapt to another one.​ ​You might also see the terms “control structures” or “control flow elements” to refer to programming constructs which specify what the program should do next in a sequence."
     },
       {
       "word" : "Unplugged Computing",
