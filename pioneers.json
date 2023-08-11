@@ -93,63 +93,6 @@
       
 
     },
-    {
-      "name" : "Tester Figueroa",
-      "years" : "1997 - ",
-      "altCareer" : "Student",
-      "publicGenderIdentity" : "Female",
-      "birthday": "1997-05-08",
-      "currTag": "Input / Process / Storage / Output",
-      "knownFor": "",
-        "century":[
-            "20",
-            "21"
-      ],
-      "birthCountry":"Uknown",
-      "achievement": "1 Achievement goes here",
-      "source": "",
-      "citation": [
-            ""
-      ],
-      "ACM Classification": "",
-      "facts" : [
-        "TESTER Fact 1",
-        "TESTER Fact 2"
-      ],
-      "tags" : [
-        "testerTag1"
-      ]
-      
-
-    },
-      {
-      "name" : "Tester TORPEDOS",
-      "years" : "1914 - ",
-      "altCareer" : "Student",
-      "publicGenderIdentity" : "Female",
-      "birthday": "1914-07-15",
-      "currTag": "Logic (AND / OR / NOT)",
-      "knownFor": "Netflix",
-        "century":[
-            "20",
-            "21"
-      ],
-      "birthCountry":"Uknown",
-      "achievement": "one achievement goes here",
-      "source": "",
-      "citation": [
-            ""
-      ],
-      "ACM Classification": "",
-      "facts" : [
-        "TESTER Fact 1",
-        "TESTER Fact 2"
-      ],
-      "tags" : [
-        "torpedos"
-      ]
-      
-    },
  {
       "name" : "Reed Hastings",
       "years" : "1914 - ",
