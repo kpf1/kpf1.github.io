@@ -1788,6 +1788,68 @@
       ]
       
 
+    },
+{
+      "name" : "Bill Gates",
+      "years" : "1955 - ",
+      "altCareer" : "Philanthropist",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1955-10-28",
+      "currTag": "",
+      "knownFor": "Robotics",
+        "century":[
+            "20",
+            "21"
+      ],
+      "birthCountry":"USA",
+      "achievement": "",
+      "source": "",
+      "citation": [
+      "https://en.wikipedia.org/wiki/Bill_Gates"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Co-founded the software giant Microsoft along with a childhood friend.",
+      "He was a major entrepreneur of the microcomputer revolution of the 1970s and 1980s.",
+      "He has given sizable amounts of money to various charitable organizations and scientific research programs through the foundation he co-founded with his ex-wife, which is reported to be the world's largest private charity."
+      ],
+      "tags" : [
+      "Entrepreneur",
+  
+      ]
+      
+
+    },
+{
+      "name" : "Paul Allen",
+      "years" : "1953 - 2018",
+      "altCareer" : "Philanthropist",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1953-01-21",
+      "currTag": "",
+      "knownFor": "Robotics",
+        "century":[
+            "20",
+            "21"
+      ],
+      "birthCountry":"USA",
+      "achievement": "",
+      "source": "",
+      "citation": [
+      "https://en.wikipedia.org/wiki/Paul_Allen"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "Co-founded the software giant Microsoft along with a childhood friend.",
+      "He held 43 patents from the United States Patent and Trademark Office.",
+      "He founded the Allen Institutes for Brain Science, Artificial Intelligence, and Cell Science"
+      ],
+      "tags" : [
+      "Entrepreneur",
+  
+      ]
+      
+
     }
 
   ]
