@@ -415,7 +415,7 @@
       "publicGenderIdentity" : "Male",
       "birthday": "1926-05-10",
       "currTag": "",
-      "knownFor": "",
+      "knownFor": "Fixed Repetition",
         "century":[
             "20",
             "21"
@@ -474,7 +474,7 @@
       "publicGenderIdentity" : "Male",
       "birthday": "Unknown",
       "currTag": "",
-      "knownFor": "",
+      "knownFor": "Conditional Repetition",
       "century":[
             "19"
       ],
@@ -503,7 +503,7 @@
       "publicGenderIdentity" : "Female",
       "birthday": "1967-01-14",
       "currTag": "",
-      "knownFor": "",
+      "knownFor": "Input / Process / Storage / Output",
         "century":[
             "20",
             "21"
