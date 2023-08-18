@@ -1770,7 +1770,7 @@
       ],
       "birthCountry":"Scotland",
       "achievement": "",
-      "source": "",
+      "source": "https://blogs.cs.st-andrews.ac.uk/csblog/files/2011/06/prof-ian-sommerville-main.jpg",
       "citation": [
             "https://en.wikipedia.org/wiki/Ian_Sommerville_(software_engineer)"
       ],
@@ -1803,7 +1803,7 @@
       ],
       "birthCountry":"USA",
       "achievement": "",
-      "source": "",
+      "source": "https://image.cnbcfm.com/api/v1/image/106967046-1635430835800-gettyimages-946971500-99821012.jpeg?v=1685992445",
       "citation": [
       "https://en.wikipedia.org/wiki/Bill_Gates"
       ],
@@ -1834,7 +1834,7 @@
       ],
       "birthCountry":"USA",
       "achievement": "",
-      "source": "",
+      "source": "https://m.media-amazon.com/images/M/MV5BNTAwMTEyMjE3Nl5BMl5BanBnXkFtZTgwNzk3MjU1NjM@._V1_.jpg",
       "citation": [
       "https://en.wikipedia.org/wiki/Paul_Allen"
       ],
@@ -1850,7 +1850,196 @@
       ]
       
 
+    },
+{
+      "name" : "Katherine Johnson",
+      "years" : "1918 - 2020",
+      "altCareer" : "Mathematician",
+      "publicGenderIdentity" : "Female",
+      "birthday": "1918-08-26",
+      "currTag": "",
+      "knownFor": "",
+        "century":[
+            "20",
+            "21"
+      ],
+      "birthCountry":"USA",
+      "achievement": "Known as the Human Calculator",
+      "source": "https://www.nasa.gov/sites/default/files/styles/side_image/public/thumbnails/image/26646856911_ca242812ee_o_1.jpg?itok=loOup36h",
+      "citation": [
+      "https://www.nasa.gov/content/katherine-johnson-biography"
+      ],
+      "ACM Classification": "Mathematics",
+      "facts" : [
+      "She did trajectory analysis for Alan Shepard’s May 1961 mission Freedom 7, America’s first human spaceflight.",
+      "She was the first woman in the Flight Research Division to receive credit as an author of a research report.",
+      "Upon her death, NASA issued a statement describing her as an American hero and her pioneering legacy will never be forgotten."
+      ],
+      "tags" : [
+      "NASA",
+      "Space"
+  
+      ]
+      
+
+    },
+{
+      "name" : "Joseph Marie Jacquard",
+      "years" : "1752 - 1834",
+      "altCareer" : "Weaver and Merchant",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1752-07-07",
+      "currTag": "",
+      "knownFor": "Computer",
+        "century":[
+            "18",
+            "19"
+      ],
+      "birthCountry":"France",
+      "achievement": "Inventor of the Programmable Loom",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Joseph_Marie_Jacquard.jpg/440px-Joseph_Marie_Jacquard.jpg",
+      "citation": [
+      "https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+      "He played an important role in the development of the earliest programmable loom, which in turn played an important role in the development of other programmable machines",
+      "In 1801, he exhibited his invention at the Exposition des produits de l'industrie française in Paris, where he was awarded a bronze medal.",
+      "The emperor granted the patent for his loom to the city of Lyon. In return, he received a lifelong pension of 3,000 francs; furthermore, he received a royalty of 50 francs for each loom that was bought and used during the period from 1805 to 1811."
+      ],
+      "tags" : [
+      "Computer"
+  
+      ]
+      
+
+    },
+{
+      "name" : "Charles Babbage",
+      "years" : "1791 - 1871",
+      "altCareer" : "Mathematician",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1791-12-26",
+      "currTag": "",
+      "knownFor": "Computer",
+        "century":[
+            "18",
+            "19"
+      ],
+      "birthCountry":"England",
+      "achievement": "Father of the Computer",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Charles_Babbage_-_1860.jpg/440px-Charles_Babbage_-_1860.jpg",
+      "citation": [
+      "https://en.wikipedia.org/wiki/Charles_Babbage"
+      ],
+      "ACM Classification": "Computer Science",
+      "facts" : [
+"Originated the concept of a programmable general-purpose computer",
+"Designed the Analytical Engine and built a prototype for a less powerful mechanical calculator.",
+"His reforming direction included making university education more inclusive, universities doing more for research, a broader syllabus and more interest in applications."
+            
+      ],
+      "tags" : [
+      "Computer"
+  
+      ]
+      
+
+    },
+{
+      "name" : "George Boole",
+      "years" : "1815 - 1864",
+      "altCareer" : "Mathematician",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1815-11-02",
+      "currTag": "",
+      "knownFor": "",
+        "century":[
+            "19"
+      ],
+      "birthCountry":"England",
+      "achievement": "",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/George_Boole_color.jpg/440px-George_Boole_color.jpg",
+      "citation": [
+      "https://en.wikipedia.org/wiki/George_Boole"
+      ],
+      "ACM Classification": "Mathematics and Computer Science",
+      "facts" : [
+"Formalized Boolean algebra, the basis for digital logic and computer science.",
+"With Augustus DeMorgan formalize a set of logical operations now known as DeMorgan transformations.",
+"He's now best known as the author of The Laws of Thought."
+            
+      ],
+      "tags" : [
+      "Algebra"
+  
+      ]
+      
+
+    },
+{
+      "name" : "Jean-Maurice-Émile Baudot",
+      "years" : "1845 - 1903",
+      "altCareer" : "Telegraph Engineer",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1845-09-11",
+      "currTag": "",
+      "knownFor": "",
+        "century":[
+            "19",
+              "20"
+      ],
+      "birthCountry":"France",
+      "achievement": "",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Emile_Baudot.jpg",
+      "citation": [
+      "https://en.wikipedia.org/wiki/%C3%89mile_Baudot"
+      ],
+      "ACM Classification": "Digital Communication and Computer Science",
+      "facts" : [
+"Telegraphic engineer who patented the first means of digital communication.",
+"The modem speed unit baud is named after him.",
+"He often had to fund his own research, even having to sell the gold medal awarded by the 1878 Exposition Universelle in 1880."
+            
+      ],
+      "tags" : [
+      ""
+  
+      ]
+      
+
+    },
+{
+      "name" : "Guillermo González Camarena",
+      "years" : "1917 - 1965",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1917-02-17",
+      "currTag": "",
+      "knownFor": "Netflix",
+        "century":[
+            "19"      ],
+      "birthCountry":"Mexico",
+      "achievement": "Inventor of the Color Television",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ing._Guillermo_Gonz%C3%A1lez_Camarena.jpg/540px-Ing._Guillermo_Gonz%C3%A1lez_Camarena.jpg",
+      "citation": [
+      "https://en.wikipedia.org/wiki/Guillermo_Gonz%C3%A1lez_Camarena"
+      ],
+      "ACM Classification": "",
+      "facts" : [
+"Electrical engineer who was the inventor of a color-wheel type of color television",
+"A field-sequential color television system similar to his Tricolor system was used in NASA's Voyager mission in 1979, to take pictures and video of Jupiter.",
+"There was a Mexican science research and technology group created in his name in 1995 that was beneficial to creative and talented inventors in Mexico."
+            
+      ],
+      "tags" : [
+      "Inventor"
+  
+      ]
+      
+
     }
+
 
   ]
 }
