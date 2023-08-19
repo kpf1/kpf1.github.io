@@ -1,0 +1,26 @@
+      {
+  "grouping" : "Resources",
+  "links" : [
+    {
+      "language" : "Python",
+      "source" : "https://developers.google.com/edu/python"
+    },
+    {
+      "langauge" : "Javascript",
+      "source" : "https://junilearning.com/blog/guide/javascript-for-kids/"
+    },
+     {
+      "language" : "Java",
+      "source" : "https://www.udemy.com/course/java-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-UfB4ehpx3sT93US_xK8IFg"
+    },
+    {
+      "language" : "C / C++",
+      "source" : "https://www.edapp.com/course-collection/c-suite-training-courses/"
+    },
+     {
+      "language" : "I'm not sure",
+      "source" : "https://scratch.mit.edu/"
+    }
+
+  ]
+}
