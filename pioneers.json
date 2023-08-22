@@ -2013,7 +2013,7 @@
       "name" : "Guillermo González Camarena",
       "years" : "1917 - 1965",
       "altCareer" : "",
-      "publicGenderIdentity" : "Non-binary",
+      "publicGenderIdentity" : "Male",
       "birthday": "1917-02-17",
       "currTag": "",
       "knownFor": "Netflix",
@@ -2030,6 +2030,38 @@
 "Electrical engineer who was the inventor of a color-wheel type of color television",
 "A field-sequential color television system similar to his Tricolor system was used in NASA's Voyager mission in 1979, to take pictures and video of Jupiter.",
 "There was a Mexican science research and technology group created in his name in 1995 that was beneficial to creative and talented inventors in Mexico."
+            
+      ],
+      "tags" : [
+      "Inventor"
+  
+      ]
+      
+
+    },
+{
+      "name" : "Steven Paul Jobs",
+      "years" : "1955 - 2011",
+      "altCareer" : "",
+      "publicGenderIdentity" : "Male",
+      "birthday": "1956-02-24",
+      "currTag": "",
+      "knownFor": "Tablet",
+        "century":[
+            "19",
+        "20"
+        ],
+      "birthCountry":"USA",
+      "achievement": "Pioneer of the Personal Computer Revolution",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/440px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
+      "citation": [
+      "https://en.wikipedia.org/wiki/Steve_Jobs"
+      ],
+      "ACMClassification": "Computer Science",
+      "facts" : [
+"Co-founded Apple Inc. along with Steve Wozniak",
+"Saw breakthrough with the Macintosh in 1984, the first mass-produced computer with a GUI. ",
+"In 1974, he traveled through India seeking enlightenment before later studying Zen Buddhism."
             
       ],
       "tags" : [
