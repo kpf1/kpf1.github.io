@@ -19,7 +19,7 @@
       "citation": [
             "https://www.kodewithklossy.com/about"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Following her own curiosity, she took a coding class at the Flatiron School, which ignited a passion to see more people with the opportunity to make change using tech. She awarded 21 scholarships are awarded to young people in NYC to learn how to code.",
       "In 2016, she launched Kode With Klossy summer coding camps, awarding 80+ scholarships across 3 camps in LA, NYC and St. Louis",
@@ -48,7 +48,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Ada_Lovelace"
       ],
-      "ACM Classification": "Mathematics and Computer Science",
+      "ACMClassification": "Mathematics and Computer Science",
       "facts" : [
       "An English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. ",
       "She is often regarded as the first to recognize the full potential of a computing machine and the first computer programmer.",
@@ -79,7 +79,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Hedy_Lamarr"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
         "Co-inventor of frequency-hopping signal technology which prevents torpedo's radio guidance system from being tracked or jammed during WWII.",
         "The frequency-hopping invention has been incorporated into modern-day bluetooth and GPS technologies."
@@ -111,7 +111,7 @@
        "citation": [
              "https://en.wikipedia.org/wiki/Reed_Hastings"
        ],
-      "ACM Classification": "",
+      "ACMClassification": "",
       "facts" : [
         "His first job was at Adaptive Technology, where he created a tool for debugging software.",
         "In 1991, he founded his first company, Pure Software, which produced products to troubleshoot software.",
@@ -140,7 +140,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Reed_Hastings"
       ],
-      "ACM Classification": "",
+      "ACMClassification": "",
       "facts" : [
         "A serial entrepreneur who is said to have helped found the U.S. edition of Macworld magazine and the Ordinal computer mail-order businesses MacWarehouse and MicroWarehouse.",
         "In 1997, he co-founded Netflix, offering flat rate movie rental-by-mail to customers in the US by combining two emerging technologies; DVDs, which were much easier to send as mail than VHS-cassettes, and a website from which to order them, instead of a paper catalogue.",
@@ -169,7 +169,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Rebeca_Guber"
       ],
-      "ACM Classification": "Mathematics and Information Science",
+      "ACMClassification": "Mathematics and Information Science",
       "facts" : [
         "She was fundamental to the success of the early development of information science in Argentina.",
         "co-founded a consultancy firm called Scientific Technical Advisors (ACT), in part to prevent the Institute's lines of research and work from being totally abandoned during Argentina's coup d'etat."
@@ -197,7 +197,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Cecilia_Berdichevsky"
       ],
-      "ACM Classification": "Mathematics and Information Science",
+      "ACMClassification": "Mathematics and Information Science",
       "facts" : [
         "She was fundamental to the success of the early development of information science in Argentina."
       ],
@@ -223,7 +223,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Cicely_Popplewell"
       ],
-      "ACM Classification": "Software Engineering",
+      "ACMClassification": "Software Engineering",
       "facts" : [
         "Fundamental in designing the programming language for the Ferranti Mark 1."
       ],
@@ -251,7 +251,7 @@
             "https://es.wikipedia.org/wiki/Soledad_Antelada_Toledano",
             "https://www.sans.org/profiles/soledad-antelada-toledano/"
       ],
-      "ACM Classification": "Information Science",
+      "ACMClassification": "Information Science",
       "facts" : [
         "The first female computer systems engineer and researcher in the cyber security division at Berkeley National Lab.",
         "Founder of Girls Can Hack, an organization dedicated to engaging women in the cybersecurity field."
@@ -279,7 +279,7 @@
       "citation": [
             "https://www.arieldlopez.com/"
       ],
-      "ACM Classification": "",
+      "ACMClassification": "",
       "facts" : [
         "CEO of Knac, a skills platform that aims to reinvent the job application for professionals and companies."
       ],
@@ -307,7 +307,7 @@
             "https://en.wikipedia.org/wiki/Megan_Smith"
       ],
      
-      "ACM Classification": "Information Technology",
+      "ACMClassification": "Information Technology",
       "facts" : [
         "The first female chief technology officer of the U.S. and served in the White House.",
         "She promotes diversity throughout IT workplaces."
@@ -336,7 +336,7 @@
             "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)"
       ],
      
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
         "Developed SIMULA 67 which is a programming setup that overlaps windows on graphic display screens.",
         "Many of the concepts developed by her and her team at PARC became the basis for graphical user interfaces"
@@ -363,7 +363,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/George_Antheil"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
         "Co-inventor of frequency-hopping signal technology which prevents torpedo's radio guidance system from being tracked or jammed during WWII.",
         "The frequency-hopping invention has been incorporated into modern-day bluetooth and GPS technologies."
@@ -395,7 +395,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Xuedong_Huang"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
         "He modernized spoken language and integrative AI services via Azure AI",
       "Microsoft Research recruited him to found and lead Microsoft's spoken language initiatives in 1993.",
@@ -426,7 +426,7 @@
       "citation": [
             "https://www.computerhope.com/people/oliver_selfridge.htm"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
         "Pioneer of AI (artificial intelligence) and called the father of machine perception.",
       "Helped organize the first ever public meeting on AI with Norbert Minsky in 1955.",
@@ -455,7 +455,7 @@
       "citation": [
             "https://www.computerhope.com/people/christopher_sholes.htm"
       ],
-      "ACM Classification": "Hardware",
+      "ACMClassification": "Hardware",
       "facts" : [
         "Inventor of the typewriter.",
       " Inventor of the first QWERTY keyboard."
@@ -484,7 +484,7 @@
       "citation": [
             "https://www.computerhope.com/people/lee_mcmahon.htm"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He is best known for his contributions to early versions of the Unix operating system, in particular the sed stream editor.",
       "Contributed to the development of comm, qsort (quicksort C library), grep, cref (Unix cross referencing function), cu, and Datakit (a virtual circuit switch developed at Bell Labs).",
@@ -514,7 +514,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Kimberly_Bryant_(technologist)"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Founder of Black Girls Code, an organization to teach programming to girls from underrepresented communities."
  
@@ -544,7 +544,7 @@
       "citation": [
             "https://www.computerhope.com/people/william_english.htm"
       ],
-      "ACM Classification": "Hardware",
+      "ACMClassification": "Hardware",
       "facts" : [
       "Known for his work int he development of the first computer mouse.",
       "Key participant in The Mother of All Demos in 1964 that demonstrated the mouse and other technologies developed as part of the NLS (oN-Line System).",
@@ -578,7 +578,7 @@
       "citation": [
             "https://www.computerhope.com/people/evelyn_berezin.htm"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Known for designing one of the first word processors in 1968.",
       "In 1969, she founded the Redactron Corporation, which manufactured a word processing system called the Data Secretary.",
@@ -610,7 +610,7 @@
       "citation": [
             "https://www.computerhope.com/people/frederic_williams.htm"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Best known for his significant contribution to the development of Radar while working at the Telecommunications Research Establishment during World War II.",
       "Designed the first stored-program digital computer, the SSEM (Small Scale Experimental Machine).",
@@ -645,7 +645,7 @@
       "citation": [
             "https://www.computerhope.com/people/jagadish_bose.htm"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He pioneered the investigation of radio and microwave optics",
       "He was the first person from the Indian subcontinent to receive a US patent, in 1904.",
@@ -680,7 +680,7 @@
             "https://www.computerhope.com/people/lois_haibt.htm",
             "https://en.wikipedia.org/wiki/Lois_Haibt"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Known for being the only female member of the ten-person team at IBM that developed FORTRAN, the first successful high level programming language.",
       "Her estimates of flow in high-traffic areas of the computer were obtained by calculating how often basic blocks of the program would execute. Haibt employed Monte Carlo methods (statistical analysis) for these calculations.",
@@ -714,7 +714,7 @@
             "https://www.computerhope.com/people/norman_nie.htm",
             "https://en.wikipedia.org/wiki/Norman_H._Nie"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Developed SPSS (Statistical Package for the Social Sciences) to automate data analysis for manipulating data files, transforming data, and creating statistics on a mainframe computer.",
       "He started the Stanford Institute for the Quantitative Study of Society (SIQSS), where he served as director. The Institute is devoted to the pursuit and sponsorship of high-quality empirical social science research about the nature of society and social change.",
@@ -749,7 +749,7 @@
             "https://www.computerhope.com/people/owen_mock.htm"
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Computer software designer and programmer who pioneered computer operating systems in the 1950s.",
       "He was part of a group of programmers at the Los Angeles division of NAA (North American Aviation) who developed the PACT series of compilers for the IBM 701 computer.",
@@ -782,7 +782,7 @@
             "https://www.computerhope.com/people/paul_mockapetris.htm"
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Co-created the Internet DNS (Domain Name System).",
       "Former program manager for networking at the ARPA (Advanced Research Projects Agency) of the U.S. Department of Defense.",
@@ -815,7 +815,7 @@
             "https://www.computerhope.com/people/jonathan_postel.htm"
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Co-created the Internet DNS (Domain Name System).",
       "He made many significant contributions to the development of the Internet, particularly with respect to standards.",
@@ -849,7 +849,7 @@
             "https://www.computerhope.com/people/peter_landin.htm"
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He was the first to realize that the lambda calculus could be used to model a programming language.",
       "Responsible for inventing the SECD machine, the first abstract process virtual machine ever defined.",
@@ -884,7 +884,7 @@
             "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan"
      
       ],
-      "ACM Classification": "Mathematics",
+      "ACMClassification": "Mathematics",
       "facts" : [
       "He made significant contributions to Number Theory, a fundamental aspect of Computer Science",
       " As late as 2012, researchers continued to discover that mere comments in his writings about simple properties and similar outputs for certain findings were themselves profound and subtle number theory results that remained unsuspected until nearly a century after his death.",
@@ -917,7 +917,7 @@
             "https://www.computerhope.com/people/hakon_wium_lie.htm"
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Best known for creating the concept and helping to develop CSS (Cascading Style Sheets) in 1994.",
       "CTO (chief technology officer) of Opera Software from 1998 to 2016."
@@ -951,7 +951,7 @@
             
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Best known as the creator of the JavaScript programming language.",
       "In early 1998, he co-founded the free and open-source software project Mozilla.",
@@ -985,7 +985,7 @@
             
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Invented the WWW (World Wide Web).",
       "Proposed HTML (Hypertext Markup Language).",
@@ -1021,7 +1021,7 @@
             
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "His group has developed a new computer programming language, named Scratch, that makes it easier for children to create animated stories, video games, and interactive art.",
       "He cofounded the Computer Clubhouse, an award-winning network of learning centers for youth from under-served communities. ",
@@ -1055,7 +1055,7 @@
             
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "She co-developed a new computer programming language, named Scratch, that makes it easier for children to create animated stories, video games, and interactive art.",
       "Utilizing constructionist theory, Kafai examines technology designs and culture, and helped to set the foundation for programmatic initiatives on games and learning.",
@@ -1089,7 +1089,7 @@
             
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He co-founded CodePen, a useful and liberating online code editor for developers of any skill.",
       "He does JavaScript development for CodePen, both front end and back, as well as Rails "
@@ -1122,7 +1122,7 @@
             
      
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He co-founded CodePen, a useful and liberating online code editor for developers of any skill.",
       "He is front-end developer and designer.",
@@ -1157,7 +1157,7 @@
             "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)",
             "https://www.britannica.com/biography/Martin-Cooper"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He placed the first public call from a handheld portable cell phone while working at Motorola, from a Manhattan sidewalk to his counterpart at competitor Bell Labs.",
       "Formulated the law which states that the maximum number of voice conversations or equivalent data transactions that can be conducted in all of the useful radio spectrum over a given area doubles every 30 months."
@@ -1191,7 +1191,7 @@
             "https://en.wikipedia.org/wiki/Seymour_Papert",
             "https://en.wikipedia.org/wiki/Computational_thinking#:~:text=Neither%20the%20idea%20nor%20the,1980%20and%20again%20in%201996."
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He worked on learning theories, and was known for focusing on the impact of new technologies on learning in general, and in schools as learning organizations in particular.",
       "He first used the term computational thinking in 1980 and again in 1996."
@@ -1222,7 +1222,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Jiro_Kawakita"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Author of KJ method for organizing notes, also termed affinity walls in UX Research"
       ],
@@ -1251,7 +1251,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/David_Axmark"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Co-created MySQL.",
       "He co-founded MariaDB Foundation, the non-profit organisation charged with promoting, protecting and advancing the MariaDB codebase, community, and ecosystem.",
@@ -1284,7 +1284,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Michael_Widenius"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He co-created MySQL.",
       "He co-founded MariaDB Foundation, the non-profit organisation charged with promoting, protecting and advancing the MariaDB codebase, community, and ecosystem."
@@ -1315,7 +1315,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Michael_Widenius"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He co-created MySQL.",
       "He co-founded MariaDB Foundation, the non-profit organisation charged with promoting, protecting and advancing the MariaDB codebase, community, and ecosystem."
@@ -1346,7 +1346,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
       ],
-      "ACM Classification": "Computer Science and Mathematics",
+      "ACMClassification": "Computer Science and Mathematics",
       "facts" : [
       "He invented the modern binary number system, the basis for binary code",
       "He anticipated later developments in first-order predicate calculus, which were crucial for the theoretical foundations of computer science."
@@ -1376,7 +1376,7 @@
             "https://en.wikipedia.org/wiki/Kenneth_Craik",
             "https://en.wikipedia.org/wiki/Mental_model"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "In 1943, he suggested that the mind constructs small-scale models of reality that it uses to anticipate events, which has led to Information Mapping",
       "During WWII,he contributed to major advances on flight simulators for the RAF and did major studies on the effects of fatigue on pilots."
@@ -1407,7 +1407,7 @@
             "https://www.computerhope.com/people/guido_van_rossum.htm",
             "https://en.wikipedia.org/wiki/Guido_van_Rossum"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Best known as the author of the Python programming language.",
       "He continues to oversee the Python development process, making decisions where necessary."
@@ -1438,7 +1438,7 @@
             "https://en.wikipedia.org/wiki/LOOP_(programming_language)#:~:text=by%2DStep%20Tutorial-,History,unpublished%20PhD%20thesis%20of%20Ritchie.",
             "https://en.wikipedia.org/wiki/Albert_R._Meyer"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Best known as the co-creator of LOOP programming language.",
       "One of his seminal works introduced the concept of polynomial hierarchy."
@@ -1468,7 +1468,7 @@
             "https://en.wikipedia.org/wiki/LOOP_(programming_language)#:~:text=by%2DStep%20Tutorial-,History,unpublished%20PhD%20thesis%20of%20Ritchie.",
             "https://en.wikipedia.org/wiki/Dennis_Ritchie"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Best known as the creator of C Programming Language.",
       "He is the co-creator of LOOP programming language.",
@@ -1499,7 +1499,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Larry_Page"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Best known as the co-founder of the search engine Google.",
       "He also pushed for keeping Google's home page famously sparse in its design because it would help the search results load faster.",
@@ -1530,7 +1530,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Sergey_Brin"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Best known as the co-founder of the search engine Google.",
       "His main focus during Google's early days was on developing data mining systems.",
@@ -1561,7 +1561,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Tony_Hoare"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He was involved with developing international standards in programming and informatics, as a member of the International Federation for Information Processing (IFIP)",
       "He is regretful about inventing the null reference",
@@ -1594,7 +1594,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Rasmus_Lerdorf"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He co-authored and inspired the PHP scripting language, authoring the first two versions of the language and participating in the development of later versions.",
       "He is a frequent speaker at Open Source conferences around the world. During his keynote presentation at OSCMS 2007, he presented a security vulnerability in each of the projects represented at the conference that year."
@@ -1624,7 +1624,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Pierre_Omidyar"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "In 1995, he began to write the original computer code for an online venue to enable the listing of a direct person-to-person auction for collectible items. He created a simple prototype on his web page.",
       "In 2010, he launched an online investigative reporting news service, Honolulu Civil Beat, covering civic affairs in Hawaii.",
@@ -1654,7 +1654,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Bubble_sort#:~:text=The%20earliest%20description%20of%20the,a%20%22Sorting%20exchange%20Algorithms%22."
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "In a 1956 paper, he described a Sorting Exchange Algorithms.",
       "His algorithm description would later be referred to as Bubble Sort."
@@ -1683,7 +1683,7 @@
       "citation": [
             "https://www.computerhope.com/people/john_mccarthy.htm"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Created the Lisp programming language family, influenced the design of the ALGOL programming language, and made timesharing popular.",
       "He coined the term artificial intelligence, also known as AI."
@@ -1714,7 +1714,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Jean_Piaget"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He is considered the father of the constructivist view of learning."
       ],
@@ -1744,7 +1744,7 @@
       "citation": [
             "https://www.computerhope.com/people/ben_shneiderman.htm"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Conducted fundamental research in the field of human-computer interaction, developing new ideas, methods, and tools such as the direct manipulation interface, and his eight rules of design."
       ],
@@ -1774,7 +1774,7 @@
       "citation": [
             "https://en.wikipedia.org/wiki/Ian_Sommerville_(software_engineer)"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "His research has included systems requirements engineering and system evolution.",
       "Most widely read of his publications is probably his student text book Software Engineering, currently in its 10th edition.",
@@ -1807,7 +1807,7 @@
       "citation": [
       "https://en.wikipedia.org/wiki/Bill_Gates"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Co-founded the software giant Microsoft along with a childhood friend.",
       "He was a major entrepreneur of the microcomputer revolution of the 1970s and 1980s.",
@@ -1838,7 +1838,7 @@
       "citation": [
       "https://en.wikipedia.org/wiki/Paul_Allen"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "Co-founded the software giant Microsoft along with a childhood friend.",
       "He held 43 patents from the United States Patent and Trademark Office.",
@@ -1869,7 +1869,7 @@
       "citation": [
       "https://www.nasa.gov/content/katherine-johnson-biography"
       ],
-      "ACM Classification": "Mathematics",
+      "ACMClassification": "Mathematics",
       "facts" : [
       "She did trajectory analysis for Alan Shepard’s May 1961 mission Freedom 7, America’s first human spaceflight.",
       "She was the first woman in the Flight Research Division to receive credit as an author of a research report.",
@@ -1901,7 +1901,7 @@
       "citation": [
       "https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
       "He played an important role in the development of the earliest programmable loom, which in turn played an important role in the development of other programmable machines",
       "In 1801, he exhibited his invention at the Exposition des produits de l'industrie française in Paris, where he was awarded a bronze medal.",
@@ -1932,7 +1932,7 @@
       "citation": [
       "https://en.wikipedia.org/wiki/Charles_Babbage"
       ],
-      "ACM Classification": "Computer Science",
+      "ACMClassification": "Computer Science",
       "facts" : [
 "Originated the concept of a programmable general-purpose computer",
 "Designed the Analytical Engine and built a prototype for a less powerful mechanical calculator.",
@@ -1963,7 +1963,7 @@
       "citation": [
       "https://en.wikipedia.org/wiki/George_Boole"
       ],
-      "ACM Classification": "Mathematics and Computer Science",
+      "ACMClassification": "Mathematics and Computer Science",
       "facts" : [
 "Formalized Boolean algebra, the basis for digital logic and computer science.",
 "With Augustus DeMorgan formalize a set of logical operations now known as DeMorgan transformations.",
@@ -1995,7 +1995,7 @@
       "citation": [
       "https://en.wikipedia.org/wiki/%C3%89mile_Baudot"
       ],
-      "ACM Classification": "Digital Communication and Computer Science",
+      "ACMClassification": "Digital Communication and Computer Science",
       "facts" : [
 "Telegraphic engineer who patented the first means of digital communication.",
 "The modem speed unit baud is named after him.",
@@ -2025,7 +2025,7 @@
       "citation": [
       "https://en.wikipedia.org/wiki/Guillermo_Gonz%C3%A1lez_Camarena"
       ],
-      "ACM Classification": "",
+      "ACMClassification": "",
       "facts" : [
 "Electrical engineer who was the inventor of a color-wheel type of color television",
 "A field-sequential color television system similar to his Tricolor system was used in NASA's Voyager mission in 1979, to take pictures and video of Jupiter.",
